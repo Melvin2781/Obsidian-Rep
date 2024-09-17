@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "32eb189125413839",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef3bfd031e45203d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b34f98c3208f6a4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "viewState": {
+                  "x": 80.83795107626719,
+                  "y": -1230.7170425129777,
+                  "zoom": 0.2340059620015828
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c563afb21a380d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "e283af0c984f883e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0b2c61447c5937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c038bd6204cbf51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "135bb46470d18dd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1469363a8108e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b840925b29e1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b907bcaf36751988",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b095a59a236636ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a651d418139e6564",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cbdea78348f7ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UFPB/C++/Classes/Canvas-Classes.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b34f98c3208f6a4",
+  "lastOpenFiles": [
+    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
+    "UFPB/C++/Classes/Classes - notas.md",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
+    "imagens.md",
+    "UFPB/Horário/1° Período - Cronograma.canvas",
+    "UFPB/Classe.cpp.png",
+    "UFPB/C++/Classes/Imagens - Classes/Classes-Exemplo.png",
+    "UFPB/C++/Classes/Imagens - Classes/construtor-criação.png",
+    "UFPB/C++/Classes/Imagens - Classes/Construtor-chamada.png",
+    "UFPB/C++/Classes/Imagens - Classes/Chatgpt-considerações-finais-2.png",
+    "UFPB/C++/Classes/Imagens - Classes/Classe.h.png",
+    "UFPB/C++/Classes/Imagens - Classes/chatgpt-considerações finais.png",
+    "UFPB/C++/Classes/Imagens - Classes/Main_Classe.cpp.png",
+    "UFPB/C++/Classes/Imagens - Classes/Lista de inicialização.png",
+    "UFPB/C++/Classes/Imagens - Classes/Explicação-chatgpt.png"
+  ]
+}
