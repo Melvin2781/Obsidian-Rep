@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"c9f5d66c0dd5020e","x":-2380,"y":-940,"width":366,"height":80,"type":"text","text":"# Cálculo diferencial-integral"},
+		{"id":"c7de99a96abdf3c3","x":-1995,"y":-1106,"width":119,"height":60,"type":"text","text":"08:00 -10:00"},
+		{"id":"4f5fbf330e0d28e6","x":-1990,"y":-925,"width":114,"height":51,"type":"text","text":"10:00-12:00"},
+		{"id":"2bf6db6657849560","x":-2322,"y":-1120,"width":250,"height":88,"type":"text","text":"## Matemática Discreta"},
+		{"id":"7f778118f2f235ca","x":-2340,"y":-1240,"width":286,"height":50,"color":"1","type":"text","text":"# Segunda-Quarta\n\n"},
+		{"id":"bb9145c3e87973f8","type":"text","text":"## Introdução a programação","x":-1722,"y":-1123,"width":250,"height":88},
+		{"id":"2bfd13d743e9c205","type":"text","text":"08:00 -10:00","x":-1442,"y":-1109,"width":119,"height":60},
+		{"id":"c4e9263d86cf79eb","type":"text","text":"# Terça-Quinta\n\n","x":-1740,"y":-1244,"width":286,"height":50,"color":"1"},
+		{"id":"a5e46705c6bb92d5","type":"text","text":"# Introdução à ciência da computação","x":-1733,"y":-943,"width":272,"height":119},
+		{"id":"33ddf400cd82c622","x":-1737,"y":-760,"width":280,"height":50,"type":"text","text":"# Cálculo Vetorial"},
+		{"id":"91579b292fb42e4f","type":"text","text":"10:00-12:00","x":-1437,"y":-913,"width":114,"height":60},
+		{"id":"eca6ec3fc6352381","x":-1433,"y":-765,"width":110,"height":60,"type":"text","text":"14:00-16:00"},
+		{"id":"898677fe5042bb99","type":"text","text":"# Pesquisa aplicada à computação","x":-1200,"y":-949,"width":366,"height":80},
+		{"id":"555cbc56c8edd940","type":"text","text":"08:00 -10:00","x":-815,"y":-1115,"width":119,"height":60},
+		{"id":"2fac155b9f93c640","type":"text","text":"10:00-12:00","x":-810,"y":-934,"width":114,"height":51},
+		{"id":"cae3e03858bc5c60","type":"text","text":"## Metodologia Científica","x":-1142,"y":-1129,"width":250,"height":88},
+		{"id":"3cddff541148af9a","type":"text","text":"# Segunda-Quarta\n\n","x":-1160,"y":-1249,"width":286,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"0cca0c4d2c219c29","fromNode":"7f778118f2f235ca","fromSide":"bottom","toNode":"2bf6db6657849560","toSide":"top"},
+		{"id":"d03dc5a6bfc6cb28","fromNode":"2bf6db6657849560","fromSide":"bottom","toNode":"c9f5d66c0dd5020e","toSide":"top"},
+		{"id":"4fb4dbfc6a3012ea","fromNode":"2bf6db6657849560","fromSide":"right","toNode":"c7de99a96abdf3c3","toSide":"left"},
+		{"id":"961c535827088982","fromNode":"c9f5d66c0dd5020e","fromSide":"right","toNode":"4f5fbf330e0d28e6","toSide":"left"},
+		{"id":"9f4cd81c01eb8350","fromNode":"a5e46705c6bb92d5","fromSide":"right","toNode":"91579b292fb42e4f","toSide":"left"},
+		{"id":"242a17e85ac57313","fromNode":"bb9145c3e87973f8","fromSide":"bottom","toNode":"a5e46705c6bb92d5","toSide":"top"},
+		{"id":"a64ad1b64711d520","fromNode":"bb9145c3e87973f8","fromSide":"right","toNode":"2bfd13d743e9c205","toSide":"left"},
+		{"id":"cb5895edf4fad4af","fromNode":"c4e9263d86cf79eb","fromSide":"bottom","toNode":"bb9145c3e87973f8","toSide":"top"},
+		{"id":"b43f63a02e3b9003","fromNode":"a5e46705c6bb92d5","fromSide":"bottom","toNode":"33ddf400cd82c622","toSide":"top"},
+		{"id":"ac75a46d2e4e8c17","fromNode":"33ddf400cd82c622","fromSide":"right","toNode":"eca6ec3fc6352381","toSide":"left"},
+		{"id":"43372e4f644e99b0","fromNode":"898677fe5042bb99","fromSide":"right","toNode":"2fac155b9f93c640","toSide":"left"},
+		{"id":"1983a0b8d77c6cdd","fromNode":"cae3e03858bc5c60","fromSide":"bottom","toNode":"898677fe5042bb99","toSide":"top"},
+		{"id":"9934b8d24be28975","fromNode":"cae3e03858bc5c60","fromSide":"right","toNode":"555cbc56c8edd940","toSide":"left"},
+		{"id":"211fc6d7a5b7e6a1","fromNode":"3cddff541148af9a","fromSide":"bottom","toNode":"cae3e03858bc5c60","toSide":"top"}
+	]
+}
