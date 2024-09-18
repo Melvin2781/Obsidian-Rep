@@ -4,6 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "4ce9beb1f12edfa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6497e0141a54e493",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
+                "viewState": {
+                  "x": 206.95623587722991,
+                  "y": 68.38638185080345,
+                  "zoom": -2.2578326915062936
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "ef3bfd031e45203d",
         "type": "tabs",
         "children": [
@@ -11,14 +32,11 @@
             "id": "8b34f98c3208f6a4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
-                "viewState": {
-                  "x": 1397.9783981135201,
-                  "y": 397.78933177310165,
-                  "zoom": -1.6911273730529952
-                }
+                "file": "Metodologia cientifica/Rascunho - Atividade 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -149,14 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b34f98c3208f6a4",
+  "active": "6497e0141a54e493",
   "lastOpenFiles": [
-    "Metodologia cientifica/Aplicação empírica.png",
     "Metodologia cientifica/Rascunho - Atividade 3.md",
-    "Metodologia cientifica/Princípio-Indução.png",
     "Metodologia cientifica/Atividade 3 - canvas.canvas",
-    "Captura de tela 2024-09-17 194701.png",
+    "Metodologia cientifica/Justficativa.png",
+    "Metodologia cientifica/Positivistas.png",
+    "Metodologia cientifica/Princípio-Indução.png",
     "Metodologia cientifica/Prova Dedutiva.png",
+    "Metodologia cientifica/Aplicação empírica.png",
+    "Captura de tela 2024-09-17 194701.png",
     "UFPB/C++/Classes/Canvas-Classes.canvas",
     "imagens.md",
     "Metodologia cientifica",
@@ -166,8 +186,6 @@
     "UFPB/Classe.cpp.png",
     "UFPB/C++/Classes/Imagens - Classes/Classes-Exemplo.png",
     "UFPB/C++/Classes/Imagens - Classes/construtor-criação.png",
-    "UFPB/C++/Classes/Imagens - Classes/Construtor-chamada.png",
-    "UFPB/C++/Classes/Imagens - Classes/Chatgpt-considerações-finais-2.png",
-    "UFPB/C++/Classes/Imagens - Classes/Classe.h.png"
+    "UFPB/C++/Classes/Imagens - Classes/Construtor-chamada.png"
   ]
 }
