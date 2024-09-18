@@ -21,7 +21,7 @@
 		{"id":"b52a5377253104f4","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/construtor-criação.png","x":-260,"y":-1760,"width":346,"height":134,"color":"5"},
 		{"id":"fc30c709eb5da222","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/Classes-Exemplo.png","x":-880,"y":-1693,"width":340,"height":412,"color":"1"},
 		{"id":"835ccdf96785dc96","type":"text","text":"# Definição:","x":220,"y":-1334,"width":200,"height":50,"color":"4"},
-		{"id":"09852da8b17026cb","x":-230,"y":-1498,"width":150,"height":50,"color":"#4a3636","type":"text","text":"Structs do C"},
+		{"id":"09852da8b17026cb","type":"text","text":"Structs do C","x":-230,"y":-1498,"width":150,"height":50,"color":"#4a3636"},
 		{"id":"760e82c25bb2c4eb","type":"text","text":"Classe.h","x":-960,"y":-749,"width":120,"height":50,"color":"#e534be"},
 		{"id":"4ead2738a91cce94","type":"text","text":"Classe.cpp","x":-359,"y":-749,"width":137,"height":50,"color":"#e534be"}
 	],
@@ -30,7 +30,7 @@
 		{"id":"377baab75e5aac97","fromNode":"4848b460b12962bb","fromSide":"right","toNode":"835ccdf96785dc96","toSide":"left","fromEnd":"arrow","color":"1"},
 		{"id":"45ebce1601cf2784","fromNode":"4848b460b12962bb","fromSide":"bottom","toNode":"f971cb8316086c4b","toSide":"top","color":"1"},
 		{"id":"abba54540ee344f3","fromNode":"835ccdf96785dc96","fromSide":"bottom","toNode":"ee3ef6f945cfaf65","toSide":"left","fromEnd":"arrow","color":"4"},
-		{"id":"30be593c7882fa74","fromNode":"4848b460b12962bb","fromSide":"left","toNode":"fc30c709eb5da222","toSide":"right","color":"1","label":"Exemplo"},
+		{"id":"30be593c7882fa74","fromNode":"4848b460b12962bb","fromSide":"left","toNode":"fc30c709eb5da222","toSide":"right","fromEnd":"arrow","color":"1","label":"Exemplo"},
 		{"id":"91c8a4006b1aa5f0","fromNode":"f971cb8316086c4b","fromSide":"right","toNode":"b68050fb2a1ceb84","toSide":"left","color":"5"},
 		{"id":"bdd0ddc50c56cb6d","fromNode":"b68050fb2a1ceb84","fromSide":"right","toNode":"3818d0da1ab384ae","toSide":"left","color":"6"},
 		{"id":"d375fc3debb711f2","fromNode":"4848b460b12962bb","fromSide":"top","toNode":"e9556f59b6f88a8e","toSide":"bottom","color":"1"},
@@ -48,6 +48,6 @@
 		{"id":"afad0a8cc5e6242a","fromNode":"760e82c25bb2c4eb","fromSide":"bottom","toNode":"2112ab163ca3fc58","toSide":"top","color":"#e534be"},
 		{"id":"317c417e2bfc17a7","fromNode":"857ef298cfa2728d","fromSide":"bottom","toNode":"ecc946375fbcfdb6","toSide":"top","color":"#e534be"},
 		{"id":"67f6508a050ffe7b","fromNode":"4ead2738a91cce94","fromSide":"bottom","toNode":"5914206b68b2ff2d","toSide":"top","color":"#e534be"},
-		{"id":"807bb3bc1c4bfb54","fromNode":"4848b460b12962bb","fromSide":"top","toNode":"09852da8b17026cb","toSide":"bottom","color":"#3e3232","label":"Primordial"}
+		{"id":"807bb3bc1c4bfb54","fromNode":"4848b460b12962bb","fromSide":"top","toNode":"09852da8b17026cb","toSide":"bottom","fromEnd":"arrow","color":"#3e3232","label":"Primordial"}
 	]
 }

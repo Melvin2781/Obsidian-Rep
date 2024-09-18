@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
                 "viewState": {
-                  "x": 80.83795107626719,
-                  "y": -1230.7170425129777,
-                  "zoom": 0.2340059620015828
+                  "x": 1397.9783981135201,
+                  "y": 397.78933177310165,
+                  "zoom": -1.6911273730529952
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFPB/C++/Classes/Canvas-Classes.canvas",
+                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFPB/C++/Classes/Canvas-Classes.canvas"
+                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas"
               }
             }
           }
@@ -151,20 +151,23 @@
   },
   "active": "8b34f98c3208f6a4",
   "lastOpenFiles": [
-    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
-    "UFPB/C++/Classes/Classes - notas.md",
+    "Metodologia cientifica/Aplicação empírica.png",
+    "Metodologia cientifica/Rascunho - Atividade 3.md",
+    "Metodologia cientifica/Princípio-Indução.png",
+    "Metodologia cientifica/Atividade 3 - canvas.canvas",
+    "Captura de tela 2024-09-17 194701.png",
+    "Metodologia cientifica/Prova Dedutiva.png",
     "UFPB/C++/Classes/Canvas-Classes.canvas",
     "imagens.md",
+    "Metodologia cientifica",
+    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
+    "UFPB/C++/Classes/Classes - notas.md",
     "UFPB/Horário/1° Período - Cronograma.canvas",
     "UFPB/Classe.cpp.png",
     "UFPB/C++/Classes/Imagens - Classes/Classes-Exemplo.png",
     "UFPB/C++/Classes/Imagens - Classes/construtor-criação.png",
     "UFPB/C++/Classes/Imagens - Classes/Construtor-chamada.png",
     "UFPB/C++/Classes/Imagens - Classes/Chatgpt-considerações-finais-2.png",
-    "UFPB/C++/Classes/Imagens - Classes/Classe.h.png",
-    "UFPB/C++/Classes/Imagens - Classes/chatgpt-considerações finais.png",
-    "UFPB/C++/Classes/Imagens - Classes/Main_Classe.cpp.png",
-    "UFPB/C++/Classes/Imagens - Classes/Lista de inicialização.png",
-    "UFPB/C++/Classes/Imagens - Classes/Explicação-chatgpt.png"
+    "UFPB/C++/Classes/Imagens - Classes/Classe.h.png"
   ]
 }
