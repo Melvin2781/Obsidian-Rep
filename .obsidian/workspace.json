@@ -11,30 +11,9 @@
             "id": "6497e0141a54e493",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
-                "viewState": {
-                  "x": 206.95623587722991,
-                  "y": 68.38638185080345,
-                  "zoom": -2.2578326915062936
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ef3bfd031e45203d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b34f98c3208f6a4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologia cientifica/Rascunho - Atividade 3.md",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologia cientifica/Atividade 3 - canvas.canvas"
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md"
               }
             }
           }
@@ -169,23 +148,28 @@
   },
   "active": "6497e0141a54e493",
   "lastOpenFiles": [
-    "Metodologia cientifica/Rascunho - Atividade 3.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
+    "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Venn.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Gráfico-Cartesiano.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Representação por Matriz.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
+    "UFPB/Matemática Discreta/Relações Binárias",
+    "UFPB/C++/Classes/Imagens - Classes/Classe.cpp.png",
+    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
+    "Metodologia cientifica/Aplicação empírica.png",
+    "UFPB/Matemática Discreta",
     "Metodologia cientifica/Atividade 3 - canvas.canvas",
+    "Metodologia cientifica/Rascunho - Atividade 3.md",
     "Metodologia cientifica/Justficativa.png",
     "Metodologia cientifica/Positivistas.png",
     "Metodologia cientifica/Princípio-Indução.png",
     "Metodologia cientifica/Prova Dedutiva.png",
-    "Metodologia cientifica/Aplicação empírica.png",
-    "Captura de tela 2024-09-17 194701.png",
-    "UFPB/C++/Classes/Canvas-Classes.canvas",
     "imagens.md",
     "Metodologia cientifica",
-    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
     "UFPB/C++/Classes/Classes - notas.md",
-    "UFPB/Horário/1° Período - Cronograma.canvas",
-    "UFPB/Classe.cpp.png",
-    "UFPB/C++/Classes/Imagens - Classes/Classes-Exemplo.png",
-    "UFPB/C++/Classes/Imagens - Classes/construtor-criação.png",
-    "UFPB/C++/Classes/Imagens - Classes/Construtor-chamada.png"
+    "UFPB/Horário/1° Período - Cronograma.canvas"
   ]
 }

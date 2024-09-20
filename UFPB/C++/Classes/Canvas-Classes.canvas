@@ -15,7 +15,7 @@
 		{"id":"f39aab683512f0c6","type":"text","text":"## Extra","x":-675,"y":-1071,"width":135,"height":50,"color":"#eb40cc"},
 		{"id":"5960576e25407e07","type":"text","text":"Criação de classes em diferentes arquivos","x":-732,"y":-935,"width":250,"height":60,"color":"#e534be"},
 		{"id":"857ef298cfa2728d","type":"text","text":"Main_Classe.cpp\n","x":-703,"y":-749,"width":183,"height":50,"color":"#e534be"},
-		{"id":"5914206b68b2ff2d","type":"file","file":"UFPB/Classe.cpp.png","x":-381,"y":-642,"width":180,"height":214,"color":"#e534be"},
+		{"id":"5914206b68b2ff2d","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/Classe.cpp.png","x":-381,"y":-642,"width":180,"height":214,"color":"#e534be"},
 		{"id":"ecc946375fbcfdb6","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/Main_Classe.cpp.png","x":-712,"y":-634,"width":210,"height":221,"color":"#e534be"},
 		{"id":"2112ab163ca3fc58","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/Classe.h.png","x":-990,"y":-620,"width":180,"height":193,"color":"#e534be"},
 		{"id":"b52a5377253104f4","type":"file","file":"UFPB/C++/Classes/Imagens - Classes/construtor-criação.png","x":-260,"y":-1760,"width":346,"height":134,"color":"5"},
