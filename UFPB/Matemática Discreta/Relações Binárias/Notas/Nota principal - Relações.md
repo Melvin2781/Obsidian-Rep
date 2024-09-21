@@ -46,6 +46,7 @@
 ### Composição entre relações:
 	Seja R uma relação de A X B e S uma relação de B X C, então é possível definir uma relação entre A X C, chamada de composição entre R e S. Conforme: SoR={(x,z): existe ao menos um y em B e (x,y) em R e (y, z) em S} --> Você pode dizer que a composição utiliza o y como uma ponte entre a relação R e a relação S, dessa forma, partindo de A para C.
 	Podemos aplicar a operação de composição entre relações utilizando uma forma alternativa da multiplicação entre matrizes, em que você utiliza os operadores e/ou (o e representaria a multiplicação) e (o ou representaria a adição) -- Lembrando número de colunas da primeira = número de linhas da segunda (Pra você multiplicar cada elemento de uma linha com cada elemento da outra coluna). Utilizando o método LICO, a matriz resultante da multiplicação possui o número de linhas da primeira matriz e o número de colunas da segunda matriz. O símbolo dessa operação entre matrizes é uma bola com um pontinho no meio.
+	OBS: Na composição SoR, você parte do 1 elemento de R para o segundo elemento de S, ou seja, (x,y) em R  e (y, z) em S --> (x, z) em SoR. Por esse motivo SoR é diferente de RoS na maioria dos casos, pois a multiplicação entre matrizes não é comutativa.
 
 #### Propriedades:
 ##### 1°. - Associatividade
@@ -53,6 +54,6 @@
 ##### 2°. (SoR)^-1 = R^-1 o S^-1 
 
 ## Subnotas:
-[[Subnota - Relações sobre um conjunto]] 
+[[Nota Secundária - Relações sobre um conjunto]] 
 
 

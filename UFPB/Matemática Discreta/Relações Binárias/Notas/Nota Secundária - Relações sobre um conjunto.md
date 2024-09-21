@@ -27,3 +27,18 @@
 	A relação R é antissimétrica se, e somente se, para todo x e y, (x, y) em R e (y, x) em R implicam que x = y. Se existir o par ordenado (x, y) e não houver o par ordenado (y, x), a implicação continua sendo verdadeira, pois a primeira parte dela é falsa. Lembrando que antissimetria e simetria não são opostos, uma relação pode ter as duas propriedades, a exemplo da relação diagonal em A.
 	Colocando isso no contexto das matrizes, temos que: R é antissimétrica se, e somente se, se (ai, aj) pertence a R e (aj, ai) está em R, então, ai = aj. Por consequência, se mij = i, com j diferente de i, então mji = 0, em outras palavras, R é antissimétrica se i diferente de j, então mij = 0 ou mji = 0. Podemos considerar que a relação é não antissimétrica se existir algum contraexemplo para a antissimetria.
 	
+## Fecho de relações:
+	Sabemos que uma dada relação pode não ter a propriedade de reflexividade, transitividade ou simetria, no entanto, se R não possui alguma propriedade em particular, podemos adicionar a menor quantidade possível de pares relacionados em R até que se adquira a propriedade desejada. Assim, ao fazer a união dessa relação com esses pares ordenados, estamos trabalhando com uma relação diferente. Lembrando que você pode precisar fazer diversos fechos para obter a propriedade.
+
+### Fecho reflexivo:
+	Você adiciona pares ordenados até obter uma relação reflexiva, você pode fazer isso unindo a diagonal de A(x,x) com a relação.
+
+### Fecho simétrico: 
+	Você adiciona elementos até obter uma relação simétrica, você pode fazer isso adicionando os elementos da relação inversa(y,x).
+
+### Fecho simétrico:
+	O fecho transitivo de uma relalção binária R num conjunto A é a menor relação transitiva em A que contém R. O fecho transitivo é obtido pelas uniões sucessivas de R^i, com i começando em 1 e indo até o infinito.
+
+## Subnotas:
+[[Nota Terciária - Ordem Parcial]] 
+[[Nota Terciária - Relações de equivalência]] 
