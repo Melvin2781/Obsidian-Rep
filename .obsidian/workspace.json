@@ -6,14 +6,37 @@
       {
         "id": "4ce9beb1f12edfa2",
         "type": "tabs",
+        "dimension": 58.15727699530516,
         "children": [
           {
             "id": "6497e0141a54e493",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
+                "viewState": {
+                  "x": 1861.781485824185,
+                  "y": -230.99100647611135,
+                  "zoom": -1.7763359822198759
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8eaadfac7cfed319",
+        "type": "tabs",
+        "dimension": 41.84272300469484,
+        "children": [
+          {
+            "id": "f0e8dfce373dae92",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Subnota - Relações sobre um conjunto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md"
+                "file": "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas"
               }
             }
           }
@@ -148,28 +171,30 @@
   },
   "active": "6497e0141a54e493",
   "lastOpenFiles": [
+    "UFPB/Matemática Discreta/Relações Binárias/Subnota - Relações sobre um conjunto.md",
     "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Nota principal - Relações.md",
+    "Metodologia cientifica/Princípio-Indução.png",
+    "UFPB/C++/Classes/Classes - notas.md",
+    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
+    "Untitled.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Venn.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Gráfico-Cartesiano.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Representação por Matriz.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens",
-    "UFPB/C++/Classes/Canvas-Classes.canvas",
     "UFPB/Matemática Discreta/Relações Binárias",
     "UFPB/C++/Classes/Imagens - Classes/Classe.cpp.png",
-    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
     "Metodologia cientifica/Aplicação empírica.png",
     "UFPB/Matemática Discreta",
     "Metodologia cientifica/Atividade 3 - canvas.canvas",
     "Metodologia cientifica/Rascunho - Atividade 3.md",
     "Metodologia cientifica/Justficativa.png",
     "Metodologia cientifica/Positivistas.png",
-    "Metodologia cientifica/Princípio-Indução.png",
     "Metodologia cientifica/Prova Dedutiva.png",
     "imagens.md",
     "Metodologia cientifica",
-    "UFPB/C++/Classes/Classes - notas.md",
     "UFPB/Horário/1° Período - Cronograma.canvas"
   ]
 }

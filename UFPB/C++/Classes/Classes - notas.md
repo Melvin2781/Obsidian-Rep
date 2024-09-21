@@ -1,3 +1,4 @@
+#CPP
 ## Definição:
 	Classes são utilizadas para criar objetos com características em comum e criar uma biblioteca de funções. - Lembrando, quando você for declarar um classe, coloque o ponto e vírgula logo após o fechamento das chaves.
 ## Propriedades:

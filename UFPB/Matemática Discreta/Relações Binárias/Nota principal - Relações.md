@@ -1,3 +1,4 @@
+#Discreta
 ## Definição: 
 	Uma relação entre A e B é um subconjunto do produto cartesiano A X B. Ou seja, R é uma relação entre A e B, se, e somente se, R está contido no conjunto AXB.
 	
@@ -44,4 +45,14 @@
 
 ### Composição entre relações:
 	Seja R uma relação de A X B e S uma relação de B X C, então é possível definir uma relação entre A X C, chamada de composição entre R e S. Conforme: SoR={(x,z): existe ao menos um y em B e (x,y) em R e (y, z) em S} --> Você pode dizer que a composição utiliza o y como uma ponte entre a relação R e a relação S, dessa forma, partindo de A para C.
-	Podemos aplicar a relação de composição entre relações utilizando uma forma alternativa da multiplicação entre matrizes, em que você utiliza os operadores e/ou (o e representaria a multiplicação) e (o ou representaria a adição) -- Lembrando número de colunas da primeira = número de linhas da segunda (Pra você multiplicar cada elemento de uma linha com cada elemento da outra coluna). Utilizando o método LICO, a matriz resultante da multiplicação possui o número de linhas da primeira matriz e o número de colunas da segunda matriz. O símbolo dessa operação entre matrizes é uma bola com um pontinho no meio.
+	Podemos aplicar a operação de composição entre relações utilizando uma forma alternativa da multiplicação entre matrizes, em que você utiliza os operadores e/ou (o e representaria a multiplicação) e (o ou representaria a adição) -- Lembrando número de colunas da primeira = número de linhas da segunda (Pra você multiplicar cada elemento de uma linha com cada elemento da outra coluna). Utilizando o método LICO, a matriz resultante da multiplicação possui o número de linhas da primeira matriz e o número de colunas da segunda matriz. O símbolo dessa operação entre matrizes é uma bola com um pontinho no meio.
+
+#### Propriedades:
+##### 1°. - Associatividade
+
+##### 2°. (SoR)^-1 = R^-1 o S^-1 
+
+## Subnotas:
+[[Subnota - Relações sobre um conjunto]] 
+
+
