@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8eaadfac7cfed319",
+        "id": "83b27e77759d2ca4",
         "type": "tabs",
-        "dimension": 30.28169014084507,
         "children": [
           {
-            "id": "abfe4d553034d8dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Partições de Relações.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f4f37b4386bface0",
-        "type": "tabs",
-        "dimension": 69.71830985915493,
-        "children": [
-          {
-            "id": "9afe9ceece68ee28",
+            "id": "56204149daf8ce32",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
                 "viewState": {
-                  "x": 2342.9549688775014,
-                  "y": 104.99423408154973,
-                  "zoom": -0.08666577214670113
+                  "x": -7.151179960216268,
+                  "y": 37.27838534496817,
+                  "zoom": -0.46353601697003416
                 }
               }
             }
@@ -92,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1469363a8108e79",
@@ -108,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Partições de Relações.md",
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Partições de Relações.md",
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Partições de Relações.md"
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas"
               }
             }
           }
@@ -169,15 +150,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abfe4d553034d8dc",
+  "active": "56204149daf8ce32",
   "lastOpenFiles": [
+    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
+    "UFPB/Matemática Discreta/Funções/Funções.canvas",
+    "UFPB/Matemática Discreta/Funções/Funções.md",
+    "UFPB/Matemática Discreta/Funções/Função Inversa.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Classes de Equivalência.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Partições.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Ordem Parcial.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações em um conjunto.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações de Equivalência.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações.md",
+    "UFPB/Matemática Discreta/Funções",
+    "Como usar o obsidian para estudar.md",
+    "Aprendendo a utilizar o obsidian",
     "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Partições de Relações.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Terciária - Relações de equivalência.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Secundária - Relações sobre um conjunto.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Terciária - Ordem Parcial.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota Quaternária - Classes de equivalência.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Nota principal - Relações.md",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Representação por Matriz.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Venn.png",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Gráfico-Cartesiano.png",

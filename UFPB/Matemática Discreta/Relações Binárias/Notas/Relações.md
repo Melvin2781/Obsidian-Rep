@@ -54,6 +54,6 @@
 ##### 2°. (SoR)^-1 = R^-1 o S^-1 
 
 ## Subnotas:
-[[Nota Secundária - Relações sobre um conjunto]] 
+[[Relações em um conjunto]] 
 
 

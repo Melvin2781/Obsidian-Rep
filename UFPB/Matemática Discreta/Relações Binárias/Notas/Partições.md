@@ -1,5 +1,5 @@
 ## Definição:
-	Dado um conjunto A. Uma partição é de A é um conjunto de conjuntos não vazios, disjuntos dois a dois, cuja união é A.
+	Dado um conjunto A. Uma partição de A é um conjunto de conjuntos não vazios, disjuntos dois a dois, cuja união é A.
 	
 ## Propriedades:
 

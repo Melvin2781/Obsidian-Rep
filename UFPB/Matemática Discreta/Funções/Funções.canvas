@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"7df4445f592ce55c","type":"group","x":-880,"y":-420,"width":1760,"height":1120,"label":"Funções - conceitos base"},
+		{"id":"7809a756f4b6ce53","type":"text","text":"Um valor x só gera uma imagem","x":253,"y":-300,"width":250,"height":60,"color":"#4682b4"},
+		{"id":"476ea14061ecfc45","type":"text","text":"## Funções","x":-6,"y":-61,"width":160,"height":50,"color":"#4682b4"},
+		{"id":"90cd54cbc89cc813","type":"text","text":"Tipo específico de Relação","x":-52,"y":-300,"width":250,"height":60,"color":"#4682b4"},
+		{"id":"ec03c4d1d77aee8e","type":"text","text":"## Injetora","x":263,"y":280,"width":155,"height":50,"color":"#c3a613"},
+		{"id":"2f3ec7a7b703c26a","type":"text","text":"Uma função pode ser classificada como Injetora quando, se f(x) = f(y), então x = y. Ou seja, a imagem da função possui um único antecedente","x":187,"y":370,"width":306,"height":145,"color":"#c3a613"},
+		{"id":"3ac2f7aabae90374","type":"text","text":"Condição necessária para a existência de uma função inversa","x":215,"y":546,"width":250,"height":88,"color":"#c3a613"},
+		{"id":"04756ffaa96ec3d4","type":"text","text":"##  Sobrejetora","x":-286,"y":280,"width":210,"height":50,"color":"#c3a613"},
+		{"id":"989a41d48d3a50bc","type":"text","text":"## Representação","x":-380,"y":-211,"width":250,"height":60,"color":"1"},
+		{"id":"3206afd45cea4128","type":"text","text":"## Definida em dois conjuntos","x":-380,"y":-74,"width":250,"height":76,"color":"1"},
+		{"id":"cf5e2df91d40e608","type":"text","text":"F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B","x":-780,"y":-109,"width":250,"height":146,"color":"1"},
+		{"id":"446ba195f17740ed","type":"text","text":"Por esse motivo, a função geradora da função inversa deve ser bijetiva","x":-780,"y":-246,"width":250,"height":95,"color":"1"},
+		{"id":"72b2e271c34ae0d8","type":"text","text":"Representação por meio do diagrama de Venn","x":-380,"y":-340,"width":250,"height":57,"color":"1"},
+		{"id":"44df6e13fabdb204","type":"text","text":"## Classificação\n","x":-39,"y":100,"width":225,"height":50,"color":"#c3a613"},
+		{"id":"8015822967b3c8f4","type":"text","text":"## Bijetora","x":-10,"y":280,"width":164,"height":50,"color":"#e4bf07"},
+		{"id":"7e1ce42265fa04dd","type":"text","text":"Um mecanismo que transforma uma grandeza em outra.","x":-79,"y":-198,"width":305,"height":58,"color":"#4682b4"},
+		{"id":"0cd64b5ef5831b3a","type":"text","text":"Uma função:A->B pode ser considerada injetora quando Im(F) = B(Contradomínio)","x":-316,"y":394,"width":270,"height":121,"color":"#c3a613"},
+		{"id":"4577cc5f96bcbcae","type":"text","text":"Condição necessária para que a função inversa seja uma função de B para A","x":-306,"y":546,"width":250,"height":84,"color":"#c3a613"}
+	],
+	"edges":[
+		{"id":"25509489fb737db2","fromNode":"476ea14061ecfc45","fromSide":"top","toNode":"7e1ce42265fa04dd","toSide":"bottom","color":"#4682b4","label":"Def"},
+		{"id":"d82434254d59d26e","fromNode":"7e1ce42265fa04dd","fromSide":"top","toNode":"90cd54cbc89cc813","toSide":"bottom","color":"#4682b4"},
+		{"id":"d668c2aa162d286f","fromNode":"90cd54cbc89cc813","fromSide":"right","toNode":"7809a756f4b6ce53","toSide":"left","color":"#4682b4"},
+		{"id":"9fb2c7789088b9f5","fromNode":"476ea14061ecfc45","fromSide":"bottom","toNode":"44df6e13fabdb204","toSide":"top","color":"#4682b4"},
+		{"id":"58c75f20b72ccb99","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"04756ffaa96ec3d4","toSide":"top","color":"3"},
+		{"id":"988861108055116f","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"8015822967b3c8f4","toSide":"top","color":"3"},
+		{"id":"1333dc400144d96d","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"ec03c4d1d77aee8e","toSide":"top","color":"3"},
+		{"id":"61ba2901377c87e3","fromNode":"04756ffaa96ec3d4","fromSide":"bottom","toNode":"0cd64b5ef5831b3a","toSide":"top","color":"3"},
+		{"id":"e28d668e5342b747","fromNode":"ec03c4d1d77aee8e","fromSide":"bottom","toNode":"2f3ec7a7b703c26a","toSide":"top","color":"3"},
+		{"id":"98b441a2f170c344","fromNode":"ec03c4d1d77aee8e","fromSide":"left","toNode":"8015822967b3c8f4","toSide":"right","color":"3"},
+		{"id":"acf357137d0c6ebd","fromNode":"04756ffaa96ec3d4","fromSide":"right","toNode":"8015822967b3c8f4","toSide":"left","color":"3"},
+		{"id":"bafb2375facc195c","fromNode":"0cd64b5ef5831b3a","fromSide":"bottom","toNode":"4577cc5f96bcbcae","toSide":"top","color":"3"},
+		{"id":"e72eb3bf1ccf59e2","fromNode":"2f3ec7a7b703c26a","fromSide":"bottom","toNode":"3ac2f7aabae90374","toSide":"top","color":"3"},
+		{"id":"a254ba28cce66bf3","fromNode":"476ea14061ecfc45","fromSide":"left","toNode":"3206afd45cea4128","toSide":"right","color":"#4682b4"},
+		{"id":"246c763998ca8681","fromNode":"3206afd45cea4128","fromSide":"left","toNode":"cf5e2df91d40e608","toSide":"right","color":"1"},
+		{"id":"f9a3616dba5e3d65","fromNode":"cf5e2df91d40e608","fromSide":"top","toNode":"446ba195f17740ed","toSide":"bottom","color":"1"},
+		{"id":"8a001c9d1ff89092","fromNode":"3206afd45cea4128","fromSide":"top","toNode":"989a41d48d3a50bc","toSide":"bottom","color":"1"},
+		{"id":"b0e60b6b4d550606","fromNode":"989a41d48d3a50bc","fromSide":"top","toNode":"72b2e271c34ae0d8","toSide":"bottom","color":"1"}
+	]
+}
