@@ -11,14 +11,11 @@
             "id": "56204149daf8ce32",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
-                "viewState": {
-                  "x": -7.151179960216268,
-                  "y": 37.27838534496817,
-                  "zoom": -0.46353601697003416
-                }
+                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1469363a8108e79",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
+                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
+                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas"
+                "file": "Metodologia cientifica/Rascunho Atividade 4.md"
               }
             }
           }
@@ -152,8 +148,12 @@
   },
   "active": "56204149daf8ce32",
   "lastOpenFiles": [
-    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
+    "UFPB/C++/Classes/Classes - notas.md",
+    "Metodologia cientifica/Rascunho Atividade 4.md",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
+    "UFPB/C++/Classes/Imagens - Classes/chatgpt-considerações finais.png",
     "UFPB/Matemática Discreta/Funções/Funções.canvas",
+    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
     "UFPB/Matemática Discreta/Funções/Funções.md",
     "UFPB/Matemática Discreta/Funções/Função Inversa.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Classes de Equivalência.md",
@@ -172,9 +172,7 @@
     "UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
     "UFPB/Matemática Discreta/Relações Binárias/Notas",
     "Metodologia cientifica/Princípio-Indução.png",
-    "UFPB/C++/Classes/Classes - notas.md",
     "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
-    "UFPB/C++/Classes/Canvas-Classes.canvas",
     "Untitled.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens",
     "UFPB/Matemática Discreta/Relações Binárias",
@@ -185,7 +183,6 @@
     "Metodologia cientifica/Rascunho - Atividade 3.md",
     "Metodologia cientifica/Justficativa.png",
     "Metodologia cientifica/Positivistas.png",
-    "Metodologia cientifica/Prova Dedutiva.png",
     "imagens.md",
     "Metodologia cientifica",
     "UFPB/Horário/1° Período - Cronograma.canvas"
