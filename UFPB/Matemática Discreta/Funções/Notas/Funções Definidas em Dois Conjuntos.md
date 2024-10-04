@@ -1,3 +1,4 @@
+#Discreta 
 ## Definição:
 	Seja F uma função e sejam os conjuntos A e B não vazios. Dizemos que F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B. Dom(F) = A, Im(F) contida em B. Essa função pode ser representada como: F:A -> B.
 	Para provar que F:A -> B, temos que provar que F é uma função, que o dom(F) = A e que a Im(F) está contida em B.

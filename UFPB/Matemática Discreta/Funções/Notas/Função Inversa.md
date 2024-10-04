@@ -1,4 +1,4 @@
-
+#Discreta 
 ## Definição:
 	Uma função é um tipo especial de relação, como F é uma relação, temos o conceito de relação inversa, ou seja, F^-1. Por exemplo, seja um par ordenado de F = (0, 1), um dos pares ordenados de F^-1 = (1,0). Assim, uma função sempre terá uma relação inversa, mas nem sempre ela terá uma função inversa, pois é necessário que essa relação inversa cumpra alguns requisitos para que, assim, seja considerada uma função.
 
