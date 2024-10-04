@@ -11,11 +11,14 @@
             "id": "56204149daf8ce32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
-                "mode": "source",
-                "source": false
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
+                "viewState": {
+                  "x": 193.6654651441258,
+                  "y": 404.19891992612617,
+                  "zoom": -0.9999999999999998
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologia cientifica/Rascunho Atividade 4.md",
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologia cientifica/Rascunho Atividade 4.md"
+                "file": "UFPB/Matemática Discreta/Funções/Funções.canvas"
               }
             }
           }
@@ -148,41 +151,42 @@
   },
   "active": "56204149daf8ce32",
   "lastOpenFiles": [
-    "UFPB/C++/Classes/Classes - notas.md",
-    "Metodologia cientifica/Rascunho Atividade 4.md",
-    "UFPB/C++/Classes/Canvas-Classes.canvas",
-    "UFPB/C++/Classes/Imagens - Classes/chatgpt-considerações finais.png",
-    "UFPB/Matemática Discreta/Funções/Funções.canvas",
-    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
     "UFPB/Matemática Discreta/Funções/Funções.md",
+    "UFPB/Matemática Discreta/Funções/Funções.canvas",
     "UFPB/Matemática Discreta/Funções/Função Inversa.md",
+    "UFPB/Matemática Discreta/Funções/Imagens/SobrejetoraContagem.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/Função-Identidade.png",
+    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
+    "UFPB/Matemática Discreta/Funções/Imagens/Comp2.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/Composição-Função.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/FuncaoSobrejetora.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/FuncaoInversa.png",
+    "Metodologia cientifica/Atividade 3 - canvas.canvas",
+    "Metodologia cientifica/Aplicação empírica.png",
+    "Aprendendo a utilizar o obsidian/Como usar o obsidian para estudar.md",
+    "Pasted image 20241003204109.png",
+    "UFPB/Matemática Discreta/Funções/Imagens",
+    "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Classes de Equivalência.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Partições.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Transitividade.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Ordem Parcial.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações em um conjunto.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações de Equivalência.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações.md",
+    "Metodologia cientifica/Rascunho Atividade 4.md",
+    "UFPB/C++/Classes/Classes - notas.md",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
     "UFPB/Matemática Discreta/Funções",
-    "Como usar o obsidian para estudar.md",
     "Aprendendo a utilizar o obsidian",
-    "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
-    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Representação por Matriz.png",
-    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Venn.png",
-    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Gráfico-Cartesiano.png",
-    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
     "UFPB/Matemática Discreta/Relações Binárias/Notas",
-    "Metodologia cientifica/Princípio-Indução.png",
     "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
     "Untitled.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens",
     "UFPB/Matemática Discreta/Relações Binárias",
-    "UFPB/C++/Classes/Imagens - Classes/Classe.cpp.png",
-    "Metodologia cientifica/Aplicação empírica.png",
     "UFPB/Matemática Discreta",
-    "Metodologia cientifica/Atividade 3 - canvas.canvas",
     "Metodologia cientifica/Rascunho - Atividade 3.md",
-    "Metodologia cientifica/Justficativa.png",
-    "Metodologia cientifica/Positivistas.png",
     "imagens.md",
     "Metodologia cientifica",
     "UFPB/Horário/1° Período - Cronograma.canvas"
