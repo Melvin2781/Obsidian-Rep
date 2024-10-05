@@ -1,128 +1,1207 @@
 {
-	"nodes":[
-		{"id":"7df4445f592ce55c","type":"group","x":-1420,"y":-640,"width":3440,"height":2240,"label":"Funções - conceitos base"},
-		{"id":"2a4eb42852f2814d","type":"group","x":-4500,"y":-720,"width":2951,"height":1787,"label":"Funções de Permutação"},
-		{"id":"3fb2adda53171368","type":"text","text":"### Formas de representação","x":-2622,"y":280,"width":322,"height":60,"color":"1"},
-		{"id":"14cb597b2255816b","type":"text","text":"Não leva nenhum elemento para si mesmo.","x":-2219,"y":220,"width":250,"height":60,"color":"5"},
-		{"id":"80dcd8bf92b5b274","type":"text","text":"Omite pontos fixos","x":-2060,"y":475,"width":250,"height":60,"color":"1"},
-		{"id":"ec3ef2e424770335","type":"text","text":"Representação única.","x":-2227,"y":-14,"width":232,"height":50,"color":"4"},
-		{"id":"51abb47a6553787c","type":"text","text":"## Função de Permutação\n","x":-2751,"y":106,"width":324,"height":56,"color":"2"},
-		{"id":"d6e95604d2a06a1c","type":"text","text":"### Desarrumação Total\n","x":-2240,"y":102,"width":275,"height":60,"color":"5"},
-		{"id":"d7847947ec38fe91","type":"text","text":"#### Arranjo Retangular\n","x":-2881,"y":480,"width":259,"height":50,"color":"1"},
-		{"id":"029b14f092e33f56","type":"text","text":"#### Notação em Ciclo","x":-2380,"y":480,"width":245,"height":50,"color":"1"},
-		{"id":"0214f220aea0a0cb","type":"text","text":"Listagem dos elementos do domínio na linha de cima e listagem dos elementos da imagem em baixo dos antecedentes deles.","x":-2876,"y":600,"width":250,"height":180,"color":"1"},
-		{"id":"1cc93bfd69d578fe","type":"text","text":"Elementos que não aparecem no ciclo, vão para si mesmos.","x":-2220,"y":642,"width":250,"height":96,"color":"1"},
-		{"id":"996c7fb96ebf909c","type":"text","text":"### Ciclos Disjuntos","x":-2577,"y":-130,"width":230,"height":50,"color":"4"},
-		{"id":"e465be8b22ca959a","type":"text","text":"Permutação cíclica ou reordenamento não muda.","x":-2240,"y":-140,"width":258,"height":71,"color":"4"},
-		{"id":"d1a527b10e7d6c71","type":"text","text":"fog = gof","x":-2220,"y":-255,"width":138,"height":60,"color":"4"},
-		{"id":"6545fef6d740f06f","type":"text","text":"Uma elemento leva pro elemento a sua direita","x":-2550,"y":660,"width":250,"height":60,"color":"1"},
-		{"id":"1ce8e6f326f06255","type":"text","text":"Se F e G pertencem à função, então a composta também pertencerá","x":-3420,"y":-365,"width":250,"height":97,"color":"2"},
-		{"id":"4bdfab7a0951f1ff","type":"text","text":"Uma função de permutação em um conjunto A, é uma função bijetora de A para A, em que não há perda de elementos, apenas a mudança da posição.","x":-3140,"y":-142,"width":332,"height":140,"color":"2"},
-		{"id":"0b5aa1f9dfe17057","type":"text","text":"Se f pertence ao conjunto SA, então a inversa também pertence.","x":-3099,"y":-538,"width":250,"height":105,"color":"2"},
-		{"id":"d0402a54f5fbf494","type":"text","text":"Conjunto formados por todos as funções de permutação é chamado de SA.","x":-3099,"y":-378,"width":250,"height":123,"color":"2"},
-		{"id":"6ed1357c6998119e","type":"text","text":"### Permutação Especiais","x":-3437,"y":132,"width":297,"height":50,"color":"6"},
-		{"id":"ae8d22ae95b52f26","type":"text","text":"São ciclos Disjuntos se a representação em ciclo não possui elementos em comum","x":-2587,"y":-326,"width":250,"height":126,"color":"4"},
-		{"id":"476ea14061ecfc45","type":"text","text":"## Funções","x":-107,"y":54,"width":160,"height":50,"color":"#4682b4"},
-		{"id":"3206afd45cea4128","type":"text","text":"## Definida em dois conjuntos","x":-814,"y":192,"width":250,"height":76,"color":"1"},
-		{"id":"989a41d48d3a50bc","type":"text","text":"## Representação","x":-814,"y":54,"width":250,"height":60,"color":"1"},
-		{"id":"446ba195f17740ed","type":"text","text":"Por esse motivo, a função geradora da função inversa deve ser bijetiva","x":-1214,"y":19,"width":250,"height":95,"color":"1"},
-		{"id":"0cd64b5ef5831b3a","type":"text","text":"Uma função:A->B pode ser considerada injetora quando Im(F) = B(Contradomínio)","x":-1345,"y":694,"width":270,"height":121,"color":"#c3a613"},
-		{"id":"4577cc5f96bcbcae","type":"text","text":"Condição necessária para que a função inversa seja uma função de B para A","x":-1335,"y":846,"width":250,"height":84,"color":"#c3a613"},
-		{"id":"72b2e271c34ae0d8","type":"text","text":"Representação por meio do diagrama de Venn","x":-814,"y":-75,"width":250,"height":57,"color":"1"},
-		{"id":"ef80e6e853bafe74","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutações Especiais.png","x":-3288,"y":233,"width":319,"height":247,"color":"6"},
-		{"id":"9f24459f9b422787","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutas Especiais 2.png","x":-3660,"y":233,"width":320,"height":250,"color":"6"},
-		{"id":"082d1108dde15c97","type":"text","text":"#### Contagem Bijetora","x":115,"y":623,"width":250,"height":60,"color":"6"},
-		{"id":"a6d66b3e9eebb284","type":"text","text":"Função identidade","x":1200,"y":-2,"width":196,"height":60,"color":"2"},
-		{"id":"e084f345f073e364","type":"text","text":"Uma função composta é a aplicação de uma função em outra.","x":888,"y":80,"width":250,"height":103,"color":"2"},
-		{"id":"416841378d71cb33","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Comp2.png","x":1445,"y":-419,"width":400,"height":253,"color":"2"},
-		{"id":"89d6948453e09fca","type":"text","text":"Você sai de A --> A, passando o valor de a como objeto e sem alterar ele, ou seja, f(a) = a","x":1480,"y":-127,"width":250,"height":125,"color":"2"},
-		{"id":"5c5960eae37a7d6a","type":"text","text":"### Composição de Funções","x":888,"y":-100,"width":250,"height":71,"color":"2"},
-		{"id":"2f3ec7a7b703c26a","type":"text","text":"Uma função pode ser classificada como Injetora quando, se f(x) = f(y), então x = y. Ou seja, a imagem da função possui um único antecedente","x":-842,"y":670,"width":306,"height":145,"color":"#c3a613"},
-		{"id":"3ac2f7aabae90374","type":"text","text":"Condição necessária para a existência de uma função inversa","x":-814,"y":846,"width":250,"height":88,"color":"#c3a613"},
-		{"id":"11098c2af6adebfa","type":"text","text":"#### Contagem Sobrejetora","x":-234,"y":778,"width":287,"height":60,"color":"6"},
-		{"id":"ec03c4d1d77aee8e","type":"text","text":"## Injetora","x":-766,"y":580,"width":155,"height":50,"color":"#c3a613"},
-		{"id":"b82ccdae33122f51","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png","x":400,"y":-392,"width":400,"height":162,"color":"4"},
-		{"id":"3443634f9f2653a2","type":"text","text":"### Equivalência de Conjuntos","x":320,"y":360,"width":330,"height":60,"color":"#9d9fd2"},
-		{"id":"9e53bd47d4160c55","type":"text","text":"Dois conjuntos são equivalentes quando existe uma bijeção entre os dois, ou seja, |A| = |B|","x":720,"y":331,"width":250,"height":118,"color":"#9d9fd2"},
-		{"id":"9df19f3518ff2e0c","type":"text","text":"#### Contagem Geral","x":-508,"y":783,"width":217,"height":55,"color":"6"},
-		{"id":"8f5d2b42ab5dc5f9","type":"text","text":"Se |A| < |B|, então o número de funções sobrejetoras é zero, caso contrário utilizaremos:","x":-215,"y":931,"width":250,"height":127,"color":"6"},
-		{"id":"b881cd98f4511465","type":"text","text":"Notação: B^A = b^a, em que |B| = b e |A| = a","x":-525,"y":931,"width":250,"height":57,"color":"6"},
-		{"id":"3bd746e8842b5a45","type":"text","text":"### Contagem de funções\n","x":-217,"y":618,"width":250,"height":70,"color":"6"},
-		{"id":"f215bcd8064366ae","type":"text","text":"Nós podemos obter o número de bijetoras por: a!","x":435,"y":605,"width":250,"height":96,"color":"6"},
-		{"id":"835ebc4587628167","type":"text","text":"Se |A| > |B|, então o número de injetoras será zero, caso contrário utilizamos a fórmula : b!/(b-a)!","x":133,"y":918,"width":250,"height":137,"color":"6"},
-		{"id":"dbefd5693e336a0c","type":"text","text":"#### Contagem Injetora","x":135,"y":778,"width":246,"height":60,"color":"6"},
-		{"id":"54d42ff2c8c0278b","type":"text","text":"Duas funções só são iguais quando suas propriedades são iguais e seus domínios são iguais","x":80,"y":-370,"width":250,"height":118,"color":"4"},
-		{"id":"7809a756f4b6ce53","type":"text","text":"Um valor x só gera uma imagem","x":-232,"y":-260,"width":250,"height":60,"color":"#4682b4"},
-		{"id":"90cd54cbc89cc813","type":"text","text":"Tipo específico de Relação","x":-537,"y":-260,"width":250,"height":60,"color":"#4682b4"},
-		{"id":"dc3349d80d7e5d89","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/SobrejetoraContagem.png","x":-230,"y":1098,"width":279,"height":202,"color":"6"},
-		{"id":"48f9b2a948c2a313","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Composição-Função.png","x":910,"y":-355,"width":405,"height":125,"color":"2"},
-		{"id":"cf5e2df91d40e608","type":"text","text":"F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B","x":-1214,"y":157,"width":250,"height":146,"color":"1"},
-		{"id":"04756ffaa96ec3d4","type":"text","text":"##  Sobrejetora","x":-1315,"y":580,"width":210,"height":50,"color":"#c3a613"},
-		{"id":"8015822967b3c8f4","type":"text","text":"## Bijetora","x":-1039,"y":580,"width":164,"height":50,"color":"#e4bf07"},
-		{"id":"44df6e13fabdb204","type":"text","text":"## Classificação\n","x":-1067,"y":415,"width":225,"height":50,"color":"#c3a613"},
-		{"id":"7e1ce42265fa04dd","type":"text","text":"Um mecanismo que transforma uma grandeza em outra.","x":-564,"y":-158,"width":305,"height":58,"color":"#4682b4"},
-		{"id":"8165c6c9f3fcac29","x":-3920,"y":119,"width":375,"height":76,"color":"6","type":"file","file":"Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutas Especiais 3.png"}
-	],
-	"edges":[
-		{"id":"25509489fb737db2","fromNode":"476ea14061ecfc45","fromSide":"top","toNode":"7e1ce42265fa04dd","toSide":"bottom","color":"#4682b4","label":"Def"},
-		{"id":"d82434254d59d26e","fromNode":"7e1ce42265fa04dd","fromSide":"top","toNode":"90cd54cbc89cc813","toSide":"bottom","color":"#4682b4"},
-		{"id":"d668c2aa162d286f","fromNode":"90cd54cbc89cc813","fromSide":"right","toNode":"7809a756f4b6ce53","toSide":"left","color":"#4682b4"},
-		{"id":"9fb2c7789088b9f5","fromNode":"476ea14061ecfc45","fromSide":"bottom","toNode":"44df6e13fabdb204","toSide":"top","color":"#4682b4"},
-		{"id":"58c75f20b72ccb99","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"04756ffaa96ec3d4","toSide":"top","color":"3"},
-		{"id":"988861108055116f","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"8015822967b3c8f4","toSide":"top","color":"3"},
-		{"id":"1333dc400144d96d","fromNode":"44df6e13fabdb204","fromSide":"bottom","toNode":"ec03c4d1d77aee8e","toSide":"top","color":"3"},
-		{"id":"61ba2901377c87e3","fromNode":"04756ffaa96ec3d4","fromSide":"bottom","toNode":"0cd64b5ef5831b3a","toSide":"top","color":"3"},
-		{"id":"e28d668e5342b747","fromNode":"ec03c4d1d77aee8e","fromSide":"bottom","toNode":"2f3ec7a7b703c26a","toSide":"top","color":"3"},
-		{"id":"98b441a2f170c344","fromNode":"ec03c4d1d77aee8e","fromSide":"left","toNode":"8015822967b3c8f4","toSide":"right","color":"3"},
-		{"id":"acf357137d0c6ebd","fromNode":"04756ffaa96ec3d4","fromSide":"right","toNode":"8015822967b3c8f4","toSide":"left","color":"3"},
-		{"id":"bafb2375facc195c","fromNode":"0cd64b5ef5831b3a","fromSide":"bottom","toNode":"4577cc5f96bcbcae","toSide":"top","color":"3"},
-		{"id":"e72eb3bf1ccf59e2","fromNode":"2f3ec7a7b703c26a","fromSide":"bottom","toNode":"3ac2f7aabae90374","toSide":"top","color":"3"},
-		{"id":"a254ba28cce66bf3","fromNode":"476ea14061ecfc45","fromSide":"left","toNode":"3206afd45cea4128","toSide":"right","color":"#4682b4"},
-		{"id":"246c763998ca8681","fromNode":"3206afd45cea4128","fromSide":"left","toNode":"cf5e2df91d40e608","toSide":"right","color":"1"},
-		{"id":"f9a3616dba5e3d65","fromNode":"cf5e2df91d40e608","fromSide":"top","toNode":"446ba195f17740ed","toSide":"bottom","color":"1"},
-		{"id":"8a001c9d1ff89092","fromNode":"3206afd45cea4128","fromSide":"top","toNode":"989a41d48d3a50bc","toSide":"bottom","color":"1"},
-		{"id":"b0e60b6b4d550606","fromNode":"989a41d48d3a50bc","fromSide":"top","toNode":"72b2e271c34ae0d8","toSide":"bottom","color":"1"},
-		{"id":"b4525b1b44d6b8b9","fromNode":"476ea14061ecfc45","fromSide":"right","toNode":"54d42ff2c8c0278b","toSide":"left","color":"#4682b4"},
-		{"id":"71ab7b23bc5ac821","fromNode":"54d42ff2c8c0278b","fromSide":"right","toNode":"b82ccdae33122f51","toSide":"left","color":"4"},
-		{"id":"861e5f310509d690","fromNode":"5c5960eae37a7d6a","fromSide":"right","toNode":"48f9b2a948c2a313","toSide":"bottom","color":"2"},
-		{"id":"f01bb10c71082673","fromNode":"48f9b2a948c2a313","fromSide":"right","toNode":"416841378d71cb33","toSide":"left","color":"2"},
-		{"id":"4ca64f3ddc8bbca1","fromNode":"5c5960eae37a7d6a","fromSide":"bottom","toNode":"a6d66b3e9eebb284","toSide":"left","color":"2"},
-		{"id":"e6f601be8bd23928","fromNode":"a6d66b3e9eebb284","fromSide":"right","toNode":"89d6948453e09fca","toSide":"left","color":"2"},
-		{"id":"64addfa7cabe700b","fromNode":"5c5960eae37a7d6a","fromSide":"bottom","toNode":"e084f345f073e364","toSide":"top","color":"2"},
-		{"id":"dfc86ecc1ffe5791","fromNode":"476ea14061ecfc45","fromSide":"bottom","toNode":"3bd746e8842b5a45","toSide":"top","color":"6"},
-		{"id":"4ba5e30dada1e2a5","fromNode":"3bd746e8842b5a45","fromSide":"bottom","toNode":"9df19f3518ff2e0c","toSide":"top","color":"6"},
-		{"id":"deb0d9967eeac0ea","fromNode":"9df19f3518ff2e0c","fromSide":"bottom","toNode":"b881cd98f4511465","toSide":"top","color":"6"},
-		{"id":"ca9e523e3a20ca9e","fromNode":"3bd746e8842b5a45","fromSide":"bottom","toNode":"11098c2af6adebfa","toSide":"top","color":"6"},
-		{"id":"584c31163abcbb4c","fromNode":"11098c2af6adebfa","fromSide":"bottom","toNode":"8f5d2b42ab5dc5f9","toSide":"top","color":"6"},
-		{"id":"9ec044e59ded6dde","fromNode":"8f5d2b42ab5dc5f9","fromSide":"bottom","toNode":"dc3349d80d7e5d89","toSide":"top","color":"6"},
-		{"id":"e88fd92447b15877","fromNode":"3bd746e8842b5a45","fromSide":"bottom","toNode":"dbefd5693e336a0c","toSide":"top","color":"6"},
-		{"id":"abd674d8ac474f8e","fromNode":"dbefd5693e336a0c","fromSide":"bottom","toNode":"835ebc4587628167","toSide":"top","color":"6"},
-		{"id":"e2bb40c963029bcf","fromNode":"3bd746e8842b5a45","fromSide":"right","toNode":"082d1108dde15c97","toSide":"left","color":"6"},
-		{"id":"ff1a9aa873805a72","fromNode":"082d1108dde15c97","fromSide":"right","toNode":"f215bcd8064366ae","toSide":"left","color":"6"},
-		{"id":"6e93d7cdc1676e4b","fromNode":"476ea14061ecfc45","fromSide":"right","toNode":"3443634f9f2653a2","toSide":"left","color":"#4682b4"},
-		{"id":"bb63b898822fac62","fromNode":"476ea14061ecfc45","fromSide":"right","toNode":"5c5960eae37a7d6a","toSide":"left","color":"#4682b4"},
-		{"id":"1f80f66d335881ac","fromNode":"3443634f9f2653a2","fromSide":"right","toNode":"9e53bd47d4160c55","toSide":"left","color":"#9d9fd2"},
-		{"id":"a75e9dff8c43a5c2","fromNode":"51abb47a6553787c","fromSide":"left","toNode":"4bdfab7a0951f1ff","toSide":"right","color":"2"},
-		{"id":"d5e66546e91e8aab","fromNode":"4bdfab7a0951f1ff","fromSide":"top","toNode":"d0402a54f5fbf494","toSide":"bottom","color":"2"},
-		{"id":"468902f7768fcb0a","fromNode":"d0402a54f5fbf494","fromSide":"top","toNode":"0b5aa1f9dfe17057","toSide":"bottom","color":"2"},
-		{"id":"0d9df5cab2a78b8e","fromNode":"d0402a54f5fbf494","fromSide":"left","toNode":"1ce8e6f326f06255","toSide":"right","color":"2"},
-		{"id":"67fa06dde69111ef","fromNode":"51abb47a6553787c","fromSide":"bottom","toNode":"3fb2adda53171368","toSide":"top","color":"2"},
-		{"id":"ab27a1a2b9b295a8","fromNode":"3fb2adda53171368","fromSide":"bottom","toNode":"d7847947ec38fe91","toSide":"top","color":"1"},
-		{"id":"17f57ef7d0afd947","fromNode":"3fb2adda53171368","fromSide":"bottom","toNode":"029b14f092e33f56","toSide":"top","color":"1"},
-		{"id":"b4203d11460b05ae","fromNode":"d7847947ec38fe91","fromSide":"bottom","toNode":"0214f220aea0a0cb","toSide":"top","color":"1"},
-		{"id":"708a4fbda4b9df1e","fromNode":"029b14f092e33f56","fromSide":"bottom","toNode":"6545fef6d740f06f","toSide":"top","color":"1"},
-		{"id":"3182424940a13477","fromNode":"029b14f092e33f56","fromSide":"bottom","toNode":"1cc93bfd69d578fe","toSide":"top","color":"1"},
-		{"id":"e28607ed488162f3","fromNode":"51abb47a6553787c","fromSide":"top","toNode":"996c7fb96ebf909c","toSide":"bottom","color":"2"},
-		{"id":"03d5ae5c9f4eb576","fromNode":"996c7fb96ebf909c","fromSide":"top","toNode":"ae8d22ae95b52f26","toSide":"bottom","color":"4"},
-		{"id":"a76117ac3679a596","fromNode":"996c7fb96ebf909c","fromSide":"right","toNode":"d1a527b10e7d6c71","toSide":"left","color":"4"},
-		{"id":"e067c65071826060","fromNode":"996c7fb96ebf909c","fromSide":"right","toNode":"e465be8b22ca959a","toSide":"left","color":"4"},
-		{"id":"e7a2a24c50872a26","fromNode":"996c7fb96ebf909c","fromSide":"right","toNode":"ec3ef2e424770335","toSide":"left","color":"4"},
-		{"id":"6a5c475ce1508abd","fromNode":"029b14f092e33f56","fromSide":"right","toNode":"80dcd8bf92b5b274","toSide":"left","color":"1"},
-		{"id":"67f23944e376b302","fromNode":"51abb47a6553787c","fromSide":"right","toNode":"d6e95604d2a06a1c","toSide":"left","color":"2"},
-		{"id":"e30825952ca09411","fromNode":"d6e95604d2a06a1c","fromSide":"bottom","toNode":"14cb597b2255816b","toSide":"top","color":"5"},
-		{"id":"7eb012ee44ea248a","fromNode":"51abb47a6553787c","fromSide":"bottom","toNode":"6ed1357c6998119e","toSide":"top","color":"#cdbf1d"},
-		{"id":"fd196fb68c6d6c2a","fromNode":"6ed1357c6998119e","fromSide":"bottom","toNode":"ef80e6e853bafe74","toSide":"top","color":"6"},
-		{"id":"aa15e887b6a2fc9f","fromNode":"6ed1357c6998119e","fromSide":"bottom","toNode":"9f24459f9b422787","toSide":"top","color":"6"},
-		{"id":"dd9dc4a1fc0e8c6b","fromNode":"6ed1357c6998119e","fromSide":"left","toNode":"8165c6c9f3fcac29","toSide":"right","color":"6"}
-	]
+  "nodes": [
+    {
+      "id": "7df4445f592ce55c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": -640,
+      "width": 3440,
+      "height": 2240,
+      "label": "Funções - conceitos base"
+    },
+    {
+      "id": "2a4eb42852f2814d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4500,
+      "y": -720,
+      "width": 2951,
+      "height": 1787,
+      "label": "Funções de Permutação"
+    },
+    {
+      "id": "e465be8b22ca959a",
+      "type": "text",
+      "text": "Permutação cíclica ou reordenamento não muda.",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": -140,
+      "width": 258,
+      "height": 71,
+      "color": "4"
+    },
+    {
+      "id": "996c7fb96ebf909c",
+      "type": "text",
+      "text": "### Ciclos Disjuntos",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -2577,
+      "y": -130,
+      "width": 230,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "ae8d22ae95b52f26",
+      "type": "text",
+      "text": "São ciclos Disjuntos se a representação em ciclo não possui elementos em comum",
+      "styleAttributes": {},
+      "x": -2587,
+      "y": -326,
+      "width": 250,
+      "height": 126,
+      "color": "4"
+    },
+    {
+      "id": "ec3ef2e424770335",
+      "type": "text",
+      "text": "Representação única.",
+      "styleAttributes": {},
+      "x": -2227,
+      "y": -14,
+      "width": 232,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "d1a527b10e7d6c71",
+      "type": "text",
+      "text": "fog = gof",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": -255,
+      "width": 138,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "4bdfab7a0951f1ff",
+      "type": "text",
+      "text": "Uma função de permutação em um conjunto A, é uma função bijetora de A para A, em que não há perda de elementos, apenas a mudança da posição.",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -3140,
+      "y": -142,
+      "width": 332,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "6ed1357c6998119e",
+      "type": "text",
+      "text": "### Permutação Especiais",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -3437,
+      "y": 132,
+      "width": 297,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "ef80e6e853bafe74",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutações Especiais.png",
+      "styleAttributes": {},
+      "x": -3288,
+      "y": 233,
+      "width": 319,
+      "height": 247,
+      "color": "6"
+    },
+    {
+      "id": "9f24459f9b422787",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutas Especiais 2.png",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 233,
+      "width": 320,
+      "height": 250,
+      "color": "6"
+    },
+    {
+      "id": "8165c6c9f3fcac29",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutas Especiais 3.png",
+      "styleAttributes": {},
+      "x": -3920,
+      "y": 119,
+      "width": 375,
+      "height": 76,
+      "color": "6"
+    },
+    {
+      "id": "d0402a54f5fbf494",
+      "type": "text",
+      "text": "Conjunto formados por todos as funções de permutação é chamado de SA.",
+      "styleAttributes": {},
+      "x": -3099,
+      "y": -378,
+      "width": 250,
+      "height": 123,
+      "color": "2"
+    },
+    {
+      "id": "1ce8e6f326f06255",
+      "type": "text",
+      "text": "Se F e G pertencem à função, então a composta também pertencerá",
+      "styleAttributes": {},
+      "x": -3420,
+      "y": -365,
+      "width": 250,
+      "height": 97,
+      "color": "2"
+    },
+    {
+      "id": "0b5aa1f9dfe17057",
+      "type": "text",
+      "text": "Se f pertence ao conjunto SA, então a inversa também pertence.",
+      "styleAttributes": {},
+      "x": -3099,
+      "y": -538,
+      "width": 250,
+      "height": 105,
+      "color": "2"
+    },
+    {
+      "id": "51abb47a6553787c",
+      "type": "text",
+      "text": "## Função de Permutação\n",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": -2739,
+      "y": 101,
+      "width": 324,
+      "height": 56,
+      "color": "2"
+    },
+    {
+      "id": "04756ffaa96ec3d4",
+      "type": "text",
+      "text": "##  Sobrejetora",
+      "styleAttributes": {},
+      "x": -1315,
+      "y": 580,
+      "width": 210,
+      "height": 50,
+      "color": "#c3a613"
+    },
+    {
+      "id": "0cd64b5ef5831b3a",
+      "type": "text",
+      "text": "Uma função:A->B pode ser considerada injetora quando Im(F) = B(Contradomínio)",
+      "styleAttributes": {},
+      "x": -1345,
+      "y": 694,
+      "width": 270,
+      "height": 121,
+      "color": "#c3a613"
+    },
+    {
+      "id": "44df6e13fabdb204",
+      "type": "text",
+      "text": "## Classificação\n",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -1067,
+      "y": 415,
+      "width": 225,
+      "height": 50,
+      "color": "#c3a613"
+    },
+    {
+      "id": "8015822967b3c8f4",
+      "type": "text",
+      "text": "## Bijetora",
+      "styleAttributes": {},
+      "x": -1039,
+      "y": 580,
+      "width": 164,
+      "height": 50,
+      "color": "#e4bf07"
+    },
+    {
+      "id": "4577cc5f96bcbcae",
+      "type": "text",
+      "text": "Condição necessária para que a função inversa seja uma função de B para A",
+      "styleAttributes": {},
+      "x": -1335,
+      "y": 846,
+      "width": 250,
+      "height": 84,
+      "color": "#c3a613"
+    },
+    {
+      "id": "2f3ec7a7b703c26a",
+      "type": "text",
+      "text": "Uma função pode ser classificada como Injetora quando, se f(x) = f(y), então x = y. Ou seja, a imagem da função possui um único antecedente",
+      "styleAttributes": {},
+      "x": -842,
+      "y": 670,
+      "width": 306,
+      "height": 145,
+      "color": "#c3a613"
+    },
+    {
+      "id": "3ac2f7aabae90374",
+      "type": "text",
+      "text": "Condição necessária para a existência de uma função inversa",
+      "styleAttributes": {},
+      "x": -814,
+      "y": 846,
+      "width": 250,
+      "height": 88,
+      "color": "#c3a613"
+    },
+    {
+      "id": "ec03c4d1d77aee8e",
+      "type": "text",
+      "text": "## Injetora",
+      "styleAttributes": {},
+      "x": -766,
+      "y": 580,
+      "width": 155,
+      "height": 50,
+      "color": "#c3a613"
+    },
+    {
+      "id": "7e1ce42265fa04dd",
+      "type": "text",
+      "text": "Um mecanismo que transforma uma grandeza em outra.",
+      "styleAttributes": {},
+      "x": -564,
+      "y": -158,
+      "width": 305,
+      "height": 58,
+      "color": "#4682b4"
+    },
+    {
+      "id": "90cd54cbc89cc813",
+      "type": "text",
+      "text": "Tipo específico de Relação",
+      "styleAttributes": {},
+      "x": -537,
+      "y": -260,
+      "width": 250,
+      "height": 60,
+      "color": "#4682b4"
+    },
+    {
+      "id": "9df19f3518ff2e0c",
+      "type": "text",
+      "text": "#### Contagem Geral",
+      "styleAttributes": {},
+      "x": -508,
+      "y": 783,
+      "width": 217,
+      "height": 55,
+      "color": "6"
+    },
+    {
+      "id": "b881cd98f4511465",
+      "type": "text",
+      "text": "Notação: B^A = b^a, em que |B| = b e |A| = a",
+      "styleAttributes": {},
+      "x": -525,
+      "y": 931,
+      "width": 250,
+      "height": 57,
+      "color": "6"
+    },
+    {
+      "id": "dc3349d80d7e5d89",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/SobrejetoraContagem.png",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 1098,
+      "width": 279,
+      "height": 202,
+      "color": "6"
+    },
+    {
+      "id": "11098c2af6adebfa",
+      "type": "text",
+      "text": "#### Contagem Sobrejetora",
+      "styleAttributes": {},
+      "x": -234,
+      "y": 778,
+      "width": 287,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "8f5d2b42ab5dc5f9",
+      "type": "text",
+      "text": "Se |A| < |B|, então o número de funções sobrejetoras é zero, caso contrário utilizaremos:",
+      "styleAttributes": {},
+      "x": -215,
+      "y": 931,
+      "width": 250,
+      "height": 127,
+      "color": "6"
+    },
+    {
+      "id": "476ea14061ecfc45",
+      "type": "text",
+      "text": "## Funções",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": -107,
+      "y": 54,
+      "width": 160,
+      "height": 50,
+      "color": "#4682b4"
+    },
+    {
+      "id": "54d42ff2c8c0278b",
+      "type": "text",
+      "text": "Duas funções só são iguais quando suas propriedades são iguais e seus domínios são iguais",
+      "styleAttributes": {},
+      "x": 80,
+      "y": -370,
+      "width": 250,
+      "height": 118,
+      "color": "4"
+    },
+    {
+      "id": "082d1108dde15c97",
+      "type": "text",
+      "text": "#### Contagem Bijetora",
+      "styleAttributes": {},
+      "x": 115,
+      "y": 623,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "835ebc4587628167",
+      "type": "text",
+      "text": "Se |A| > |B|, então o número de injetoras será zero, caso contrário utilizamos a fórmula : b!/(b-a)!",
+      "styleAttributes": {},
+      "x": 133,
+      "y": 918,
+      "width": 250,
+      "height": 137,
+      "color": "6"
+    },
+    {
+      "id": "dbefd5693e336a0c",
+      "type": "text",
+      "text": "#### Contagem Injetora",
+      "styleAttributes": {},
+      "x": 135,
+      "y": 778,
+      "width": 246,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3443634f9f2653a2",
+      "type": "text",
+      "text": "### Equivalência de Conjuntos",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 320,
+      "y": 360,
+      "width": 330,
+      "height": 60,
+      "color": "#9d9fd2"
+    },
+    {
+      "id": "f215bcd8064366ae",
+      "type": "text",
+      "text": "Nós podemos obter o número de bijetoras por: a!",
+      "styleAttributes": {},
+      "x": 435,
+      "y": 605,
+      "width": 250,
+      "height": 96,
+      "color": "6"
+    },
+    {
+      "id": "9e53bd47d4160c55",
+      "type": "text",
+      "text": "Dois conjuntos são equivalentes quando existe uma bijeção entre os dois, ou seja, |A| = |B|",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 331,
+      "width": 250,
+      "height": 118,
+      "color": "#9d9fd2"
+    },
+    {
+      "id": "5c5960eae37a7d6a",
+      "type": "text",
+      "text": "### Composição de Funções",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 888,
+      "y": -100,
+      "width": 250,
+      "height": 71,
+      "color": "2"
+    },
+    {
+      "id": "b82ccdae33122f51",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png",
+      "styleAttributes": {},
+      "x": 400,
+      "y": -392,
+      "width": 400,
+      "height": 162,
+      "color": "4"
+    },
+    {
+      "id": "48f9b2a948c2a313",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Composição-Função.png",
+      "styleAttributes": {},
+      "x": 893,
+      "y": -373,
+      "width": 405,
+      "height": 125,
+      "color": "2"
+    },
+    {
+      "id": "416841378d71cb33",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Comp2.png",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -437,
+      "width": 400,
+      "height": 253,
+      "color": "2"
+    },
+    {
+      "id": "e084f345f073e364",
+      "type": "text",
+      "text": "Uma função composta é a aplicação de uma função em outra.",
+      "styleAttributes": {},
+      "x": 763,
+      "y": 80,
+      "width": 250,
+      "height": 103,
+      "color": "2"
+    },
+    {
+      "id": "a6d66b3e9eebb284",
+      "type": "text",
+      "text": "Função identidade",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 50,
+      "width": 196,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "89d6948453e09fca",
+      "type": "text",
+      "text": "Você sai de A --> A, passando o valor de a como objeto  sem alterar ele, ou seja, f(a) = a",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": 18,
+      "width": 250,
+      "height": 125,
+      "color": "2"
+    },
+    {
+      "id": "3bd746e8842b5a45",
+      "type": "text",
+      "text": "### Contagem de funções\n",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -239,
+      "y": 621,
+      "width": 297,
+      "height": 65,
+      "color": "6"
+    },
+    {
+      "id": "989a41d48d3a50bc",
+      "type": "text",
+      "text": "## Representação",
+      "styleAttributes": {},
+      "x": -938,
+      "y": -123,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "72b2e271c34ae0d8",
+      "type": "text",
+      "text": "Representação por meio do diagrama de Venn",
+      "styleAttributes": {},
+      "x": -938,
+      "y": -252,
+      "width": 250,
+      "height": 57,
+      "color": "1"
+    },
+    {
+      "id": "3206afd45cea4128",
+      "type": "text",
+      "text": "## Definida em dois conjuntos",
+      "styleAttributes": {},
+      "x": -814,
+      "y": 42,
+      "width": 250,
+      "height": 76,
+      "color": "1"
+    },
+    {
+      "id": "446ba195f17740ed",
+      "type": "text",
+      "text": "Por esse motivo, a função geradora da função inversa deve ser bijetiva",
+      "styleAttributes": {},
+      "x": -1289,
+      "y": -129,
+      "width": 250,
+      "height": 95,
+      "color": "1"
+    },
+    {
+      "id": "cf5e2df91d40e608",
+      "type": "text",
+      "text": "F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B",
+      "styleAttributes": {},
+      "x": -1289,
+      "y": 9,
+      "width": 250,
+      "height": 146,
+      "color": "1"
+    },
+    {
+      "id": "7809a756f4b6ce53",
+      "type": "text",
+      "text": "Um valor x só gera uma imagem",
+      "styleAttributes": {},
+      "x": -537,
+      "y": -392,
+      "width": 250,
+      "height": 60,
+      "color": "#4682b4"
+    },
+    {
+      "id": "80dcd8bf92b5b274",
+      "type": "text",
+      "text": "Omite pontos fixos",
+      "styleAttributes": {},
+      "x": -1862,
+      "y": 395,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "d7847947ec38fe91",
+      "type": "text",
+      "text": "#### Arranjo Retangular\n",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -2683,
+      "y": 400,
+      "width": 259,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "1cc93bfd69d578fe",
+      "type": "text",
+      "text": "Elementos que não aparecem no ciclo, vão para si mesmos.",
+      "styleAttributes": {},
+      "x": -2022,
+      "y": 562,
+      "width": 250,
+      "height": 96,
+      "color": "1"
+    },
+    {
+      "id": "3fb2adda53171368",
+      "type": "text",
+      "text": "### Formas de representação",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -2424,
+      "y": 200,
+      "width": 322,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "029b14f092e33f56",
+      "type": "text",
+      "text": "#### Notação em Ciclo",
+      "styleAttributes": {},
+      "x": -2182,
+      "y": 400,
+      "width": 245,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "6545fef6d740f06f",
+      "type": "text",
+      "text": "Uma elemento leva pro elemento a sua direita",
+      "styleAttributes": {},
+      "x": -2352,
+      "y": 580,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "0214f220aea0a0cb",
+      "type": "text",
+      "text": "Listagem dos elementos do domínio na linha de cima e listagem dos elementos da imagem em baixo dos antecedentes deles.",
+      "styleAttributes": {},
+      "x": -2678,
+      "y": 520,
+      "width": 250,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "14cb597b2255816b",
+      "type": "text",
+      "text": "Não leva nenhum elemento para si mesmo.",
+      "styleAttributes": {},
+      "x": -4020,
+      "y": -160,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d6e95604d2a06a1c",
+      "type": "text",
+      "text": "### Desarrumação Total\n",
+      "styleAttributes": {},
+      "x": -3615,
+      "y": -72,
+      "width": 275,
+      "height": 60,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "25509489fb737db2",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "top",
+      "toNode": "7e1ce42265fa04dd",
+      "toSide": "bottom",
+      "color": "#4682b4",
+      "label": "Def"
+    },
+    {
+      "id": "d82434254d59d26e",
+      "fromNode": "7e1ce42265fa04dd",
+      "fromSide": "top",
+      "toNode": "90cd54cbc89cc813",
+      "toSide": "bottom",
+      "color": "#4682b4"
+    },
+    {
+      "id": "9fb2c7789088b9f5",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "bottom",
+      "toNode": "44df6e13fabdb204",
+      "toSide": "top",
+      "color": "#4682b4"
+    },
+    {
+      "id": "58c75f20b72ccb99",
+      "fromNode": "44df6e13fabdb204",
+      "fromSide": "bottom",
+      "toNode": "04756ffaa96ec3d4",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "988861108055116f",
+      "fromNode": "44df6e13fabdb204",
+      "fromSide": "bottom",
+      "toNode": "8015822967b3c8f4",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "1333dc400144d96d",
+      "fromNode": "44df6e13fabdb204",
+      "fromSide": "bottom",
+      "toNode": "ec03c4d1d77aee8e",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "61ba2901377c87e3",
+      "fromNode": "04756ffaa96ec3d4",
+      "fromSide": "bottom",
+      "toNode": "0cd64b5ef5831b3a",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "e28d668e5342b747",
+      "fromNode": "ec03c4d1d77aee8e",
+      "fromSide": "bottom",
+      "toNode": "2f3ec7a7b703c26a",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "98b441a2f170c344",
+      "fromNode": "ec03c4d1d77aee8e",
+      "fromSide": "left",
+      "toNode": "8015822967b3c8f4",
+      "toSide": "right",
+      "color": "3"
+    },
+    {
+      "id": "acf357137d0c6ebd",
+      "fromNode": "04756ffaa96ec3d4",
+      "fromSide": "right",
+      "toNode": "8015822967b3c8f4",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "bafb2375facc195c",
+      "fromNode": "0cd64b5ef5831b3a",
+      "fromSide": "bottom",
+      "toNode": "4577cc5f96bcbcae",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "e72eb3bf1ccf59e2",
+      "fromNode": "2f3ec7a7b703c26a",
+      "fromSide": "bottom",
+      "toNode": "3ac2f7aabae90374",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "a254ba28cce66bf3",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "left",
+      "toNode": "3206afd45cea4128",
+      "toSide": "right",
+      "color": "#4682b4"
+    },
+    {
+      "id": "246c763998ca8681",
+      "fromNode": "3206afd45cea4128",
+      "fromSide": "left",
+      "toNode": "cf5e2df91d40e608",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "f9a3616dba5e3d65",
+      "fromNode": "cf5e2df91d40e608",
+      "fromSide": "top",
+      "toNode": "446ba195f17740ed",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "8a001c9d1ff89092",
+      "fromNode": "3206afd45cea4128",
+      "fromSide": "top",
+      "toNode": "989a41d48d3a50bc",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "b0e60b6b4d550606",
+      "fromNode": "989a41d48d3a50bc",
+      "fromSide": "top",
+      "toNode": "72b2e271c34ae0d8",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "b4525b1b44d6b8b9",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "right",
+      "toNode": "54d42ff2c8c0278b",
+      "toSide": "left",
+      "color": "#4682b4"
+    },
+    {
+      "id": "71ab7b23bc5ac821",
+      "fromNode": "54d42ff2c8c0278b",
+      "fromSide": "right",
+      "toNode": "b82ccdae33122f51",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "861e5f310509d690",
+      "fromNode": "5c5960eae37a7d6a",
+      "fromSide": "top",
+      "toNode": "48f9b2a948c2a313",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "f01bb10c71082673",
+      "fromNode": "48f9b2a948c2a313",
+      "fromSide": "right",
+      "toNode": "416841378d71cb33",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "4ca64f3ddc8bbca1",
+      "fromNode": "5c5960eae37a7d6a",
+      "fromSide": "bottom",
+      "toNode": "a6d66b3e9eebb284",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "e6f601be8bd23928",
+      "fromNode": "a6d66b3e9eebb284",
+      "fromSide": "right",
+      "toNode": "89d6948453e09fca",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "64addfa7cabe700b",
+      "fromNode": "5c5960eae37a7d6a",
+      "fromSide": "bottom",
+      "toNode": "e084f345f073e364",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "dfc86ecc1ffe5791",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "bottom",
+      "toNode": "3bd746e8842b5a45",
+      "toSide": "top",
+      "color": "#4682b4"
+    },
+    {
+      "id": "4ba5e30dada1e2a5",
+      "fromNode": "3bd746e8842b5a45",
+      "fromSide": "bottom",
+      "toNode": "9df19f3518ff2e0c",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "deb0d9967eeac0ea",
+      "fromNode": "9df19f3518ff2e0c",
+      "fromSide": "bottom",
+      "toNode": "b881cd98f4511465",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "ca9e523e3a20ca9e",
+      "fromNode": "3bd746e8842b5a45",
+      "fromSide": "bottom",
+      "toNode": "11098c2af6adebfa",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "584c31163abcbb4c",
+      "fromNode": "11098c2af6adebfa",
+      "fromSide": "bottom",
+      "toNode": "8f5d2b42ab5dc5f9",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "9ec044e59ded6dde",
+      "fromNode": "8f5d2b42ab5dc5f9",
+      "fromSide": "bottom",
+      "toNode": "dc3349d80d7e5d89",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "e88fd92447b15877",
+      "fromNode": "3bd746e8842b5a45",
+      "fromSide": "bottom",
+      "toNode": "dbefd5693e336a0c",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "abd674d8ac474f8e",
+      "fromNode": "dbefd5693e336a0c",
+      "fromSide": "bottom",
+      "toNode": "835ebc4587628167",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "e2bb40c963029bcf",
+      "fromNode": "3bd746e8842b5a45",
+      "fromSide": "right",
+      "toNode": "082d1108dde15c97",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "ff1a9aa873805a72",
+      "fromNode": "082d1108dde15c97",
+      "fromSide": "right",
+      "toNode": "f215bcd8064366ae",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "6e93d7cdc1676e4b",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "right",
+      "toNode": "3443634f9f2653a2",
+      "toSide": "left",
+      "color": "#4682b4"
+    },
+    {
+      "id": "bb63b898822fac62",
+      "fromNode": "476ea14061ecfc45",
+      "fromSide": "right",
+      "toNode": "5c5960eae37a7d6a",
+      "toSide": "left",
+      "color": "#4682b4"
+    },
+    {
+      "id": "1f80f66d335881ac",
+      "fromNode": "3443634f9f2653a2",
+      "fromSide": "right",
+      "toNode": "9e53bd47d4160c55",
+      "toSide": "left",
+      "color": "#9d9fd2"
+    },
+    {
+      "id": "a75e9dff8c43a5c2",
+      "fromNode": "51abb47a6553787c",
+      "fromSide": "left",
+      "toNode": "4bdfab7a0951f1ff",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "d5e66546e91e8aab",
+      "fromNode": "4bdfab7a0951f1ff",
+      "fromSide": "top",
+      "toNode": "d0402a54f5fbf494",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "468902f7768fcb0a",
+      "fromNode": "d0402a54f5fbf494",
+      "fromSide": "top",
+      "toNode": "0b5aa1f9dfe17057",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "0d9df5cab2a78b8e",
+      "fromNode": "d0402a54f5fbf494",
+      "fromSide": "left",
+      "toNode": "1ce8e6f326f06255",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "ab27a1a2b9b295a8",
+      "fromNode": "3fb2adda53171368",
+      "fromSide": "bottom",
+      "toNode": "d7847947ec38fe91",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "17f57ef7d0afd947",
+      "fromNode": "3fb2adda53171368",
+      "fromSide": "bottom",
+      "toNode": "029b14f092e33f56",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "b4203d11460b05ae",
+      "fromNode": "d7847947ec38fe91",
+      "fromSide": "bottom",
+      "toNode": "0214f220aea0a0cb",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "708a4fbda4b9df1e",
+      "fromNode": "029b14f092e33f56",
+      "fromSide": "bottom",
+      "toNode": "6545fef6d740f06f",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "3182424940a13477",
+      "fromNode": "029b14f092e33f56",
+      "fromSide": "bottom",
+      "toNode": "1cc93bfd69d578fe",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "e28607ed488162f3",
+      "fromNode": "51abb47a6553787c",
+      "fromSide": "top",
+      "toNode": "996c7fb96ebf909c",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "03d5ae5c9f4eb576",
+      "fromNode": "996c7fb96ebf909c",
+      "fromSide": "top",
+      "toNode": "ae8d22ae95b52f26",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "a76117ac3679a596",
+      "fromNode": "996c7fb96ebf909c",
+      "fromSide": "right",
+      "toNode": "d1a527b10e7d6c71",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e067c65071826060",
+      "fromNode": "996c7fb96ebf909c",
+      "fromSide": "right",
+      "toNode": "e465be8b22ca959a",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e7a2a24c50872a26",
+      "fromNode": "996c7fb96ebf909c",
+      "fromSide": "right",
+      "toNode": "ec3ef2e424770335",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "6a5c475ce1508abd",
+      "fromNode": "029b14f092e33f56",
+      "fromSide": "right",
+      "toNode": "80dcd8bf92b5b274",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "7eb012ee44ea248a",
+      "fromNode": "51abb47a6553787c",
+      "fromSide": "bottom",
+      "toNode": "6ed1357c6998119e",
+      "toSide": "top",
+      "color": "#252525"
+    },
+    {
+      "id": "fd196fb68c6d6c2a",
+      "fromNode": "6ed1357c6998119e",
+      "fromSide": "bottom",
+      "toNode": "ef80e6e853bafe74",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "aa15e887b6a2fc9f",
+      "fromNode": "6ed1357c6998119e",
+      "fromSide": "bottom",
+      "toNode": "9f24459f9b422787",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "dd9dc4a1fc0e8c6b",
+      "fromNode": "6ed1357c6998119e",
+      "fromSide": "left",
+      "toNode": "8165c6c9f3fcac29",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "bde23ed156e5dfcf",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": null,
+        "path": null
+      },
+      "fromNode": "51abb47a6553787c",
+      "fromSide": "left",
+      "toNode": "6ed1357c6998119e",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "d6f070620ef28d36",
+      "styleAttributes": {},
+      "fromNode": "90cd54cbc89cc813",
+      "fromSide": "top",
+      "toNode": "7809a756f4b6ce53",
+      "toSide": "bottom",
+      "color": "#4682b4"
+    },
+    {
+      "id": "4a8d437aedf4dde8",
+      "styleAttributes": {},
+      "fromNode": "51abb47a6553787c",
+      "fromSide": "right",
+      "toNode": "3fb2adda53171368",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "11fbb9b500e7ef91",
+      "styleAttributes": {},
+      "fromNode": "d6e95604d2a06a1c",
+      "fromSide": "left",
+      "toNode": "14cb597b2255816b",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "680ec329a2943e7e",
+      "styleAttributes": {},
+      "fromNode": "6ed1357c6998119e",
+      "fromSide": "top",
+      "toNode": "d6e95604d2a06a1c",
+      "toSide": "bottom",
+      "color": "6"
+    }
+  ],
+  "metadata": {}
 }

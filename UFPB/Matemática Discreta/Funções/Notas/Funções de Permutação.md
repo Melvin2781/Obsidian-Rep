@@ -1,3 +1,4 @@
+#Discreta 
 ## Definição:
 
 	Dado um conjunto A, uma função de permutação de um conjunto A, ou uma permutação de A, é uma função bijetora de A para A, f:A -> A. Ou seja, como a função é bijetora, não há perda de elementos, pois os dois conjuntos possuem a mesma quantidade de elementos, dessa forma, nós apenas mudamos a posição dos elementos pertencentes ao conjunto A. Algo interessante de se notar, é que a função identidade de A apresenta as características de uma função de permutação (trivial), pois ele não altera nada no conjunto de partida.
