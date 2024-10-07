@@ -40,5 +40,5 @@
 	O fecho transitivo de uma relação binária R em um conjunto A é a menor relação transitiva, em A que contém R. O fecho transitivo é obtido pelas uniões sucessivas de R^i, com i partindo de i e podendo chegar até o infinito.
 
 ## Subnotas:
-[[Ordem Parcial]] 
+[[Ordem Parcial - Total]] 
 [[Relações de Equivalência]] 
