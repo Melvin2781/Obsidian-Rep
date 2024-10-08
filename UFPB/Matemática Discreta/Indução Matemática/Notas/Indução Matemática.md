@@ -13,7 +13,7 @@ Dependências: "[[Ordem Parcial - Total]]"
 ### Definição Formal:
 
 	Nesse contexto, podemos expressar esse fenômeno informal em uma linguagem mais formal ou seja, iremos apresentar uma definição que utiliza a linguagem matemática a partir de duas propriedades:
-* a )a primeira peça é derrubada em direção às outras peças.
+* a) a primeira peça é derrubada em direção às outras peças.
 * b) Caso alguma peça esteja próxima o suficiente da sua vizinha consecutiva, então, ao ser derrubada, fará com que a sua vizinha consecutiva também seja derrubada.
 
 ## Princípios da Indução:
@@ -24,7 +24,7 @@ Dependências: "[[Ordem Parcial - Total]]"
 * Para facilitar a vida dos alunos, em matemática discreta, utilizaremos apenas o conjunto dos números naturais e a relação de menor igual.
 
 
-## Demonstração Teorema utilizado em indução:
+## Teorema utilizado na indução:
 
 
 ![[Demonstração Indução.png]]
@@ -40,4 +40,4 @@ Dependências: "[[Ordem Parcial - Total]]"
 	* 2.0 P(h) é verdadeira, então P(h+1) também é verdadeira, mais precisamente:
 	* 2.1 Hipótese da Indução: Suponha que o resultado é verdadeiro para n = h.
 	* 2.2 Tese: Usando a hipótese da indução, prove que o resultado é verdadeiro para n  = h + 1.
- * 3. Portanto, o resultado será verdadeiro para todos os números naturais, ou seja, P(n) é verdadeiro para todo n pertencente ao conjunto dos números naturais. Isso ocorre devido ao princípio fraco da indução.
+ * 3 Etapa Geral: Portanto, o resultado será verdadeiro para todos os números naturais, ou seja, P(n) é verdadeiro para todo n pertencente ao conjunto dos números naturais. Isso ocorre devido ao princípio fraco da indução.

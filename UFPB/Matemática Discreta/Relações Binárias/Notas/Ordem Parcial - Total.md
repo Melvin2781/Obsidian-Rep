@@ -19,13 +19,13 @@ Relação: "[[Indução Matemática]]"
 ### Conceitos da Ordem Total:
 
 	Um elemento ''a' que pertence ao conjunto A é chamado de primeiro elemento da relação, caso: para todo x pertence ao conjunto A, a se relacione com x. Lembrando que a ordem dos elementos na relação importa.
-	Um elemento 'b' pertencente ao conjunto A é chamado de último elemento da relação, caso: para todo y pertencente ao conjunto A, x se relacione com b. Geralmente conjuntos que não são limitados inferiormente ou superiormente, não possuem primeiro elemento ou último elemento, respectivamente.
+	Um elemento 'b' pertencente ao conjunto A é chamado de último elemento da relação, caso: para todo y pertencente ao conjunto A, y se relacione com b. Geralmente conjuntos que não são limitados inferiormente ou superiormente, não possuem primeiro elemento ou último elemento, respectivamente.
 
-## Relação de Boa Ordem
+## Relação de Boa-Ordem
 
 ### Definição:
 
-	Seja (A, R). Dizemos que A é bem-ordenada por R, ou que R é uma relação de boa ordem em A se:
+	Seja (A, R). Dizemos que A é bem-ordenada por R, ou que R é uma relação de boa-ordem em A se:
 
 * 1° - A é totalmente ordenado por R, e
 * 2° - Todo subconjunto não vazio de A possui primeiro um primeiro elemento, conforme R.

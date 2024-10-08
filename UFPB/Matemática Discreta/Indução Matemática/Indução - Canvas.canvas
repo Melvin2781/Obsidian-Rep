@@ -1,0 +1,472 @@
+{
+  "nodes": [
+    {
+      "id": "b163a20d431d3cf0",
+      "type": "group",
+      "x": -1900,
+      "y": -840,
+      "width": 2300,
+      "height": 1960,
+      "color": "#6e7dab",
+      "label": "Indução Conceitos-Chave"
+    },
+    {
+      "id": "f2c7fea20bad8ebb",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Indução Matemática/Fotos/Domino - Indução.jpg",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -934,
+      "y": 800,
+      "width": 249,
+      "height": 152,
+      "color": "5"
+    },
+    {
+      "id": "cf997810db6a7690",
+      "type": "text",
+      "text": "## Indução Matemática",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -700,
+      "y": 340,
+      "width": 300,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "cf14ca73abaed85b",
+      "type": "text",
+      "text": "### Definição\n",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -642,
+      "y": 500,
+      "width": 185,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "30312c4668142b3f",
+      "type": "text",
+      "text": "Uma definição mais formal utilizaria algumas propriedades para representar essa indução.",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 640,
+      "width": 300,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "dcd022de22794eba",
+      "type": "text",
+      "text": "Podemos definir a indução informalmente, utilizando a analogia do efeito cascata.",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 640,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "a6eb417d563f5f34",
+      "type": "text",
+      "text": "### Roteiro da Indução",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -680,
+      "y": 140,
+      "width": 260,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "ecb6d2cf2584e2bc",
+      "type": "text",
+      "text": "#### Etapa Indutiva",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -71,
+      "width": 180,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "b7dee9ef5ff9b030",
+      "type": "text",
+      "text": "### Princípios",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -1189,
+      "y": 340,
+      "width": 179,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "7856a3bc1f34b37a",
+      "type": "text",
+      "text": "Nesta disciplina, utilizaremos apenas o conjunto dos números naturais com a relação menor ou igual que.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 457,
+      "width": 300,
+      "height": 123,
+      "color": "1"
+    },
+    {
+      "id": "bfca42a91be0b952",
+      "type": "text",
+      "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 120,
+      "width": 300,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "215dad8ddef86ad1",
+      "type": "text",
+      "text": "Pode-se aplicar a indução para provar propriedades que valem para todos os elementos de um tipo de conjunto.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 304,
+      "width": 300,
+      "height": 123,
+      "color": "1"
+    },
+    {
+      "id": "b5a621be751caa21",
+      "type": "text",
+      "text": "Nunca esqueça de realizar esse passo. Ele é o mais fácil de se realizar, mas ainda é importante.",
+      "styleAttributes": {},
+      "x": -1449,
+      "y": -242,
+      "width": 320,
+      "height": 104,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "57f9c8193fe35df7",
+      "type": "text",
+      "text": "Prove que a proposição é verdadeira no primeiro elemento do conjunto.",
+      "styleAttributes": {},
+      "x": -1039,
+      "y": -240,
+      "width": 260,
+      "height": 100,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "482d1e6000784f5c",
+      "type": "text",
+      "text": "#### Etapa Básica",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -989,
+      "y": -71,
+      "width": 160,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "bf114943c7863cdf",
+      "type": "text",
+      "text": "#### Etapa Geral",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -260,
+      "y": -71,
+      "width": 156,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "5610b060110ad580",
+      "type": "text",
+      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -258,
+      "width": 260,
+      "height": 120,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "1ae64d60bb22e467",
+      "type": "text",
+      "text": "##### Hipótese da Inclusão",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -820,
+      "y": -400,
+      "width": 200,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "205ddce3ed1b1bb5",
+      "type": "text",
+      "text": "##### Tese da Indução",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -509,
+      "y": -400,
+      "width": 178,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "bc981e150143ebbd",
+      "type": "text",
+      "text": "Utilizando a hipótese da indução, prove que o resultado é verdadeiro para n = (h+1).",
+      "styleAttributes": {},
+      "x": -550,
+      "y": -595,
+      "width": 260,
+      "height": 120,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "84fd3352f6f9e361",
+      "type": "text",
+      "text": "Utilize o princípio fraco da indução para mostrar que a proposição se aplicará para todos os 'n' pertencentes ao conjunto dos naturais.",
+      "styleAttributes": {},
+      "x": -312,
+      "y": -277,
+      "width": 260,
+      "height": 139,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "e55af24b1a1fc4a9",
+      "type": "text",
+      "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
+      "styleAttributes": {},
+      "x": -850,
+      "y": -570,
+      "width": 260,
+      "height": 95,
+      "color": "#faa6ff"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2fb916debb19e761",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "cf997810db6a7690",
+      "fromSide": "bottom",
+      "toNode": "cf14ca73abaed85b",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "7e966709302966a2",
+      "styleAttributes": {},
+      "fromNode": "cf14ca73abaed85b",
+      "fromSide": "bottom",
+      "toNode": "dcd022de22794eba",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "ed60abc9a41f8bd2",
+      "styleAttributes": {},
+      "fromNode": "dcd022de22794eba",
+      "fromSide": "bottom",
+      "toNode": "f2c7fea20bad8ebb",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e46af6b645cb58b2",
+      "styleAttributes": {},
+      "fromNode": "cf14ca73abaed85b",
+      "fromSide": "bottom",
+      "toNode": "30312c4668142b3f",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "3f51326d62d60bd1",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "cf997810db6a7690",
+      "fromSide": "left",
+      "toNode": "b7dee9ef5ff9b030",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "19d642756d9f0f8d",
+      "styleAttributes": {},
+      "fromNode": "b7dee9ef5ff9b030",
+      "fromSide": "left",
+      "toNode": "bfca42a91be0b952",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "9342bf2e35f5a847",
+      "styleAttributes": {},
+      "fromNode": "b7dee9ef5ff9b030",
+      "fromSide": "left",
+      "toNode": "215dad8ddef86ad1",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "1115660a79ffb104",
+      "styleAttributes": {},
+      "fromNode": "b7dee9ef5ff9b030",
+      "fromSide": "left",
+      "toNode": "7856a3bc1f34b37a",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "e7f3b04e5cb2da4d",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "cf997810db6a7690",
+      "fromSide": "top",
+      "toNode": "a6eb417d563f5f34",
+      "toSide": "bottom",
+      "color": "6"
+    },
+    {
+      "id": "eba5e7e2a4de8429",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "a6eb417d563f5f34",
+      "fromSide": "top",
+      "toNode": "482d1e6000784f5c",
+      "toSide": "bottom",
+      "color": "#faa6ff",
+      "label": "1°"
+    },
+    {
+      "id": "efb029c14b8f0764",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "a6eb417d563f5f34",
+      "fromSide": "top",
+      "toNode": "ecb6d2cf2584e2bc",
+      "toSide": "bottom",
+      "color": "#faa6ff",
+      "label": "2°"
+    },
+    {
+      "id": "06582eefaf196b33",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "a6eb417d563f5f34",
+      "fromSide": "top",
+      "toNode": "bf114943c7863cdf",
+      "toSide": "bottom",
+      "color": "#faa6ff",
+      "label": "3°"
+    },
+    {
+      "id": "b4aa686443aa2630",
+      "styleAttributes": {},
+      "fromNode": "482d1e6000784f5c",
+      "fromSide": "top",
+      "toNode": "57f9c8193fe35df7",
+      "toSide": "bottom",
+      "color": "#faa6ff"
+    },
+    {
+      "id": "dc67829d640501df",
+      "styleAttributes": {},
+      "fromNode": "57f9c8193fe35df7",
+      "fromSide": "left",
+      "toNode": "b5a621be751caa21",
+      "toSide": "right",
+      "color": "#faa6ff"
+    },
+    {
+      "id": "2ac4c60b5cf0fef3",
+      "styleAttributes": {},
+      "fromNode": "ecb6d2cf2584e2bc",
+      "fromSide": "top",
+      "toNode": "5610b060110ad580",
+      "toSide": "bottom",
+      "color": "#faa6ff"
+    },
+    {
+      "id": "3aae901ef76ed6b9",
+      "styleAttributes": {},
+      "fromNode": "5610b060110ad580",
+      "fromSide": "top",
+      "toNode": "1ae64d60bb22e467",
+      "toSide": "bottom",
+      "color": "#faa6ff",
+      "label": "2.1°"
+    },
+    {
+      "id": "52ada03d79531fcf",
+      "styleAttributes": {},
+      "fromNode": "5610b060110ad580",
+      "fromSide": "top",
+      "toNode": "205ddce3ed1b1bb5",
+      "toSide": "bottom",
+      "color": "#faa6ff",
+      "label": "2.2°"
+    },
+    {
+      "id": "e7c60e1deffc337a",
+      "styleAttributes": {},
+      "fromNode": "1ae64d60bb22e467",
+      "fromSide": "top",
+      "toNode": "e55af24b1a1fc4a9",
+      "toSide": "bottom",
+      "color": "#faa6ff"
+    },
+    {
+      "id": "550d7637cde7c180",
+      "styleAttributes": {},
+      "fromNode": "205ddce3ed1b1bb5",
+      "fromSide": "top",
+      "toNode": "bc981e150143ebbd",
+      "toSide": "bottom",
+      "color": "#faa6ff"
+    },
+    {
+      "id": "108aef5365967fbd",
+      "styleAttributes": {},
+      "fromNode": "bf114943c7863cdf",
+      "fromSide": "top",
+      "toNode": "84fd3352f6f9e361",
+      "toSide": "bottom",
+      "color": "#faa6ff"
+    }
+  ],
+  "metadata": {}
+}

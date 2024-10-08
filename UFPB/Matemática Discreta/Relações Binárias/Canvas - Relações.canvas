@@ -23,6 +23,17 @@
       "label": "Relações - Conceitos Chave"
     },
     {
+      "id": "f7e0ad34ab726553",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3760,
+      "y": -616,
+      "width": 1800,
+      "height": 1226,
+      "color": "#6b6161",
+      "label": "Ordem parcial - Conceitos chave"
+    },
+    {
       "id": "c58dd0302fb5b2fd",
       "type": "group",
       "styleAttributes": {},
@@ -31,16 +42,6 @@
       "width": 1523,
       "height": 1020,
       "label": "Relações de Equivalência - conceitos chave"
-    },
-    {
-      "id": "f7e0ad34ab726553",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": -616,
-      "width": 1520,
-      "height": 1013,
-      "label": "Ordem parcial - Conceitos chave"
     },
     {
       "id": "bda03c45b8a8d546",
@@ -713,38 +714,27 @@
       "color": "2"
     },
     {
+      "id": "40bcbba5c1b59023",
+      "type": "text",
+      "text": "Uma relação é uma ordem parcial, se, e somente se, ela for reflexiva, antissimétrica e transitiva.",
+      "styleAttributes": {},
+      "x": 4400,
+      "y": -560,
+      "width": 250,
+      "height": 140,
+      "color": "#e29c9c"
+    },
+    {
       "id": "10669f8450314e04",
       "type": "text",
       "text": "## Ordem Parcial",
       "styleAttributes": {
         "shape": "parallelogram"
       },
-      "x": 4405,
-      "y": -234,
+      "x": 4406,
+      "y": -328,
       "width": 240,
       "height": 50,
-      "color": "#de9c9c"
-    },
-    {
-      "id": "40bcbba5c1b59023",
-      "type": "text",
-      "text": "Uma relação é uma ordem parcial, se, e somente se, ela for reflexiva, antissimétrica e transitiva.",
-      "styleAttributes": {},
-      "x": 4400,
-      "y": -480,
-      "width": 250,
-      "height": 140,
-      "color": "#e29c9c"
-    },
-    {
-      "id": "e47c899465dcc536",
-      "type": "text",
-      "text": "Um conjunto A com uma ordem parcial R, (A,R), é chamado de conjunto parcialmente ordenado.",
-      "styleAttributes": {},
-      "x": 4760,
-      "y": -266,
-      "width": 250,
-      "height": 115,
       "color": "#de9c9c"
     },
     {
@@ -755,8 +745,8 @@
         "shape": "pill",
         "border": null
       },
-      "x": 4325,
-      "y": -98,
+      "x": 4500,
+      "y": -200,
       "width": 195,
       "height": 60,
       "color": "4"
@@ -765,11 +755,118 @@
       "id": "0283457291f69799",
       "type": "text",
       "text": "Uma ordem total é uma caso especial de ordem parcial, em que todos os elementos da relação estão relacionados entre si.",
-      "styleAttributes": {},
-      "x": 3956,
-      "y": 45,
+      "styleAttributes": {
+        "shape": null,
+        "border": null
+      },
+      "x": 3880,
+      "y": -340,
       "width": 260,
-      "height": 155
+      "height": 155,
+      "color": "4"
+    },
+    {
+      "id": "58740f8b31446ca9",
+      "type": "text",
+      "text": "Conjuntos totalmente ordenado: (A, R) com a relação sendo uma ordem total.",
+      "styleAttributes": {},
+      "x": 3880,
+      "y": -120,
+      "width": 260,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "665b9ef3b32267cb",
+      "type": "text",
+      "text": "##### Segundo elemento",
+      "styleAttributes": {},
+      "x": 4581,
+      "y": 120,
+      "width": 229,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "c698647263aa76a9",
+      "type": "text",
+      "text": "'a' se relaciona com 'x' para todo x pertencente a A",
+      "styleAttributes": {},
+      "x": 4240,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "0bf22ad33f9eccef",
+      "type": "text",
+      "text": "##### Primeiro elemento\n",
+      "styleAttributes": {},
+      "x": 4260,
+      "y": 120,
+      "width": 220,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "08afd9a8098d62d4",
+      "type": "text",
+      "text": "'x' se relaciona com b para todo x pertence a A.",
+      "styleAttributes": {},
+      "x": 4566,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "0f8b9c9a8984e368",
+      "type": "text",
+      "text": "#### Fundamentos ordem total",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 4468,
+      "y": -60,
+      "width": 260,
+      "height": 80,
+      "color": "4"
+    },
+    {
+      "id": "d016608b17aa0bf1",
+      "type": "text",
+      "text": "##### Boa-Ordem",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 4736,
+      "y": -200,
+      "width": 181,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e47c899465dcc536",
+      "type": "text",
+      "text": "Um conjunto A com uma ordem parcial R, (A,R), é chamado de conjunto parcialmente ordenado.",
+      "styleAttributes": {},
+      "x": 4760,
+      "y": -418,
+      "width": 250,
+      "height": 115,
+      "color": "#de9c9c"
+    },
+    {
+      "id": "c9ed29c30718208c",
+      "type": "text",
+      "text": "A será bem-ordenada por R, se A é totalmente ordenada por R e todo subconjunto não vazio de A possui um primeiro elemento.",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": -245,
+      "width": 280,
+      "height": 150,
+      "color": "2"
     }
   ],
   "edges": [
@@ -1116,7 +1213,8 @@
       "fromNode": "7481a411e9118ce7",
       "fromSide": "right",
       "toNode": "f7e0ad34ab726553",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "2"
     },
     {
       "id": "9cce56d44a527677",
@@ -1281,11 +1379,89 @@
     },
     {
       "id": "a164e39f853c2d48",
+      "styleAttributes": {
+        "arrow": "thin-triangle"
+      },
+      "fromNode": "3b4420fe2207b038",
+      "fromSide": "left",
+      "toNode": "0283457291f69799",
+      "toSide": "right",
+      "color": "4",
+      "label": "Definição"
+    },
+    {
+      "id": "a505f4677105c8df",
+      "styleAttributes": {
+        "arrow": "thin-triangle"
+      },
+      "fromNode": "0283457291f69799",
+      "fromSide": "bottom",
+      "toNode": "58740f8b31446ca9",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "4439a165cb6e96a7",
       "styleAttributes": {},
       "fromNode": "3b4420fe2207b038",
       "fromSide": "bottom",
-      "toNode": "0283457291f69799",
-      "toSide": "top"
+      "toNode": "0f8b9c9a8984e368",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "65800986925ba8c3",
+      "styleAttributes": {},
+      "fromNode": "0f8b9c9a8984e368",
+      "fromSide": "bottom",
+      "toNode": "0bf22ad33f9eccef",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "9b435d6951b7df48",
+      "styleAttributes": {},
+      "fromNode": "0f8b9c9a8984e368",
+      "fromSide": "bottom",
+      "toNode": "665b9ef3b32267cb",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "e8aa71755216795b",
+      "styleAttributes": {},
+      "fromNode": "0bf22ad33f9eccef",
+      "fromSide": "bottom",
+      "toNode": "c698647263aa76a9",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "8e9ef113da70f144",
+      "styleAttributes": {},
+      "fromNode": "665b9ef3b32267cb",
+      "fromSide": "bottom",
+      "toNode": "08afd9a8098d62d4",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "8821f0bcb77548a6",
+      "styleAttributes": {},
+      "fromNode": "3b4420fe2207b038",
+      "fromSide": "right",
+      "toNode": "d016608b17aa0bf1",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "2ec745cd2066b527",
+      "styleAttributes": {},
+      "fromNode": "d016608b17aa0bf1",
+      "fromSide": "right",
+      "toNode": "c9ed29c30718208c",
+      "toSide": "left",
+      "color": "2"
     }
   ],
   "metadata": {}
