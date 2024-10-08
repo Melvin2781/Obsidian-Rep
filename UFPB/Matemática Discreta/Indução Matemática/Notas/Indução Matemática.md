@@ -18,12 +18,15 @@ Dependências: "[[Ordem Parcial - Total]]"
 
 ## Princípios da Indução:
 
+```ad-important
+title: Importante
+collapse: open
+
 * A prova por Indução pode ser chamada de Princípio de Indução Matemática ou Princípio da Indução Finita.
 * É uma técnica utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.
 * Dada uma relação de boa-ordem, pode-se aplicar indução para provar propriedades que valem para todos os elementos de um tipo de dado.
 * Para facilitar a vida dos alunos, em matemática discreta, utilizaremos apenas o conjunto dos números naturais e a relação de menor igual.
-
-
+```
 ## Teorema utilizado na indução:
 
 

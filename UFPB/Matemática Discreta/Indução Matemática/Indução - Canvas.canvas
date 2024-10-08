@@ -3,6 +3,7 @@
     {
       "id": "b163a20d431d3cf0",
       "type": "group",
+      "styleAttributes": {},
       "x": -1900,
       "y": -840,
       "width": 2300,
@@ -127,6 +128,19 @@
       "color": "1"
     },
     {
+      "id": "1ae64d60bb22e467",
+      "type": "text",
+      "text": "##### Hipótese da Inclusão",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -820,
+      "y": -400,
+      "width": 200,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
       "id": "bfca42a91be0b952",
       "type": "text",
       "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
@@ -157,17 +171,6 @@
       "y": -242,
       "width": 320,
       "height": 104,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "57f9c8193fe35df7",
-      "type": "text",
-      "text": "Prove que a proposição é verdadeira no primeiro elemento do conjunto.",
-      "styleAttributes": {},
-      "x": -1039,
-      "y": -240,
-      "width": 260,
-      "height": 100,
       "color": "#faa6ff"
     },
     {
@@ -207,19 +210,6 @@
       "y": -258,
       "width": 260,
       "height": 120,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "1ae64d60bb22e467",
-      "type": "text",
-      "text": "##### Hipótese da Inclusão",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -820,
-      "y": -400,
-      "width": 200,
-      "height": 60,
       "color": "#faa6ff"
     },
     {
@@ -266,6 +256,17 @@
       "y": -570,
       "width": 260,
       "height": 95,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "57f9c8193fe35df7",
+      "type": "text",
+      "text": "Prove que a proposição é verdadeira no primeiro elemento do conjunto.",
+      "styleAttributes": {},
+      "x": -1039,
+      "y": -240,
+      "width": 260,
+      "height": 100,
       "color": "#faa6ff"
     }
   ],
