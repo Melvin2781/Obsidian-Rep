@@ -26,7 +26,7 @@
 
 ![[Notação em Ciclo.png]]
 
-	Lembrando que você consegue fazer alterações cíclicas nesse ciclo sem alterar a permutação que é produzida por esse ciclo, ou seja, os elementos continuarão se relacionando com os mesmos elementos. Outra dica, a convenção é que você comece pelo primeiro elemento do domínio nesse ciclo para que, assim, você não se perca.
+	Lembrando que você consegue fazer alterações cíclicas nesse ciclo sem alterar a permutação que é produzida por esse ciclo, ou seja, os elementos continuarão se relacionando com os mesmos elementos. Outra dica, a convenção é que você comece o ciclo pelo primeiro elemento do domínio para que, assim, você não se perca.
 	A ação de GoF em qualquer elemento de A é determinado aplicando-se primeiro a função F e depois a função G. Se F e G são ciclos, então GoF também será calculado da mesma maneira.
 
 #### Ciclos Disjuntos:

@@ -12,31 +12,28 @@
 	Uma função é injetora, ou injetiva, ou um para um, se sempre que (x, b) e (y, b) pertencem à função, x = y, ou seja, as imagens da função terão um único antecedente, assim, evitando a ambiguidade de valores. Em outras palavras, se x for diferente de y, então f(x) vai ser diferente de f(y), ou de forma equivalente, se f(x) = f(y), então x = y. 
 	Para provarmos que uma função não é injetora, devemos apresentar um contraexemplo.
 	A partir desse conhecimento, nós podemos afirmar que: F^-1 é uma função, se, e somente se, a função F for injetora
-	Por fim, nós utilizaremos essa informação sobre as funções injetoras para conseguir transformar as relações inversas em funções, dessa forma, só resta igualar o domínio de F^-1 ao conjunto B.
+	Por fim, nós utilizaremos essa informação sobre as funções injetoras para conseguir transformar as relações inversas em funções, dessa forma, só resta igualar o domínio de F^-1 ao conjunto B. Para que, assim, seja uma função de B para A.
 
 ### Função Sobrejetora:
-	Uma função é sobrejetora, se para todo b pertencente ao conjunto B, existe um a pertencente ao conjunto A, tal que f(a) = b, ou seja, como todos os elementos do conjunto B possuem um antecedente em A, então B = Im(F). Assim, resolvendo o problema do domínio da função inversa.
+	Uma função é sobrejetora, se para todo b pertencente ao conjunto B, existe um 'a' pertencente ao conjunto A, tal que f(a) = b, ou seja, como todos os elementos do conjunto B possuem um antecedente em A, então B = Im(F). Assim, resolvendo o problema do domínio da função inversa.
 
 ### Função Bijetora:
-	Uma função:A -> B é bijetora quando ela é tanto sobrejetora quanto injetora, ou seja, as imagens só possuem um único antecedente e para todo b pertencente ao conjunto B, existe um a pertencente ao conjunto A, tal que f(a) = b, com isso, Im(F) = B.
+	Uma função:A -> B é bijetora quando ela é tanto sobrejetora quanto injetora, ou seja, as imagens só possuem um único antecedente e para todo b pertencente ao conjunto B, existe um a pertencente ao conjunto A, tal que f(a) = b, com isso, Im(F) = B. Para que isso ocorra, ambos os conjuntos devem ter mesma cardinalidade.
 	Algo importante de se comentar é o fato de que uma função só possuirá uma função inversa se ela for bijetora.
-
-
 
 ## Igualdade de funções:
 
-	Algo imporante de se notar na igualdade de funções é que: duas funções só são iguais quando elas possuem a mesma propriedade de formação e elas possuem o mesmo domínio. Isso ocorre pelo fato de que quando nós temos um domínio diferente em uma função, nós podemos ter pares ordenados diferentes que pertencem a essa função, ou seja, elas se tornam funções/relações diferentes.
-
+	Algo importante de se notar na igualdade de funções é que: duas funções só são iguais quando elas possuem a mesma propriedade de formação e elas possuem o mesmo domínio. Isso ocorre pelo fato de que quando nós temos um domínio diferente em uma função, nós podemos ter pares ordenados diferentes que pertencem a essa função, ou seja, elas se tornam funções/relações diferentes.
 
 ## Composição de Funções:
 
-	Sejam os conjuntos A, B e C e sejam f : A -> B e g: B -> C. Então, a função g o f é uma função de A para C, definida por (g o f)(a) = g(f(a)). Se lembre de quem fica mais à direita na função composta, é o elemento que se relaciona primeiro com o objeto (a).
-		Coisas interessantes de se notar sobre a função composta é que: o domínio dessa função é o domínio da função mais interna e a imagem da função composta está contida na imagem da função mais externa. Outra coisa é que a função composta não é comutativa.
+	Sejam os conjuntos A, B e C e sejam f : A -> B e g: B -> C. Então, a função g o f é uma função de A para C, definida por (g o f)(a) = g(f(a)). Se lembre de que: quem fica mais à direita na função composta, é a função que se relaciona primeiro com o objeto (a).
+		Coisas interessantes de se notar sobre a função composta é que: o domínio dessa função está contida no domínio da função mais interna e a imagem da função composta está contida na imagem da função mais externa. Outra coisa é que a função composta não é comutativa.
 	Outra curiosidade sobre as funções compostas é que elas possuem associatividade, ou seja, você pode mudar a posição dos parênteses. Assim, h o (g o f) = (h o g) o f.
 
 ### Função Identidade:
 
-	Seja A um conjunto, a função identidade em A é a função idA, cujo domínio é A e imagem é A e para todo a pertencente ao conjunto A, idA(a) = a. Ou seja, idA = {(a,a) tal que a pertence a A}. Nós podemos obter uma função identidade por meio da composição de funções, onde a função mais próxima da variável em composição com sua inversa faz uma função identidade do seu domínio.
+	Seja A um conjunto, a função identidade em A é a função idA, cujo domínio é A e imagem é A e para todo 'a' pertencente ao conjunto A, idA(a) = 'a'. Ou seja, idA = {(a,a), tal que 'a' pertence a A}. Nós podemos obter uma função identidade por meio da composição de funções, onde a função mais próxima da variável em composição com sua inversa faz uma função identidade do seu domínio.
 	Uma curiosidade é que a composta de f o idA = idB o f = f;
 	
 ![[Função-Identidade.png]]
