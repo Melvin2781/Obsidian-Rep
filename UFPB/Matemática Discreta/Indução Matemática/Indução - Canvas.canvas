@@ -12,6 +12,108 @@
       "label": "Indução Conceitos-Chave"
     },
     {
+      "id": "bc981e150143ebbd",
+      "type": "text",
+      "text": "Utilizando a hipótese da indução, prove que o resultado é verdadeiro para n = (h+1).",
+      "styleAttributes": {},
+      "x": -550,
+      "y": -595,
+      "width": 260,
+      "height": 120,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "e55af24b1a1fc4a9",
+      "type": "text",
+      "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
+      "styleAttributes": {},
+      "x": -850,
+      "y": -570,
+      "width": 260,
+      "height": 95,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "6a2116f1222f17dc",
+      "type": "text",
+      "text": "#### Indução Forte",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "diamond"
+      },
+      "x": -1260,
+      "y": -552,
+      "width": 160,
+      "height": 60,
+      "color": "#564e58"
+    },
+    {
+      "id": "96e50c6a5c677688",
+      "type": "text",
+      "text": "É um método mais robusto de demonstração, mesmo que seja equivalente ao da indução fraca.",
+      "styleAttributes": {},
+      "x": -1310,
+      "y": -435,
+      "width": 260,
+      "height": 115,
+      "color": "#564e58"
+    },
+    {
+      "id": "bfca42a91be0b952",
+      "type": "text",
+      "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 120,
+      "width": 300,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "215dad8ddef86ad1",
+      "type": "text",
+      "text": "Pode-se aplicar a indução para provar propriedades que valem para todos os elementos de um tipo de conjunto.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 304,
+      "width": 300,
+      "height": 123,
+      "color": "1"
+    },
+    {
+      "id": "30312c4668142b3f",
+      "type": "text",
+      "text": "Uma definição mais formal utilizaria algumas propriedades para representar essa indução.",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 640,
+      "width": 300,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "7d657677f5c793af",
+      "type": "text",
+      "text": "Na Indução Forte, nós consideramos que a propriedade é válida para todo k, tal que: n0 <= k <= h",
+      "styleAttributes": {},
+      "x": -1310,
+      "y": -740,
+      "width": 260,
+      "height": 145,
+      "color": "#564e58"
+    },
+    {
+      "id": "4b089647038231cf",
+      "type": "text",
+      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
+      "styleAttributes": {},
+      "x": -1310,
+      "y": -880,
+      "width": 260,
+      "height": 100,
+      "color": "#564e58"
+    },
+    {
       "id": "f2c7fea20bad8ebb",
       "type": "file",
       "file": "Vault UFPB/UFPB/Matemática Discreta/Indução Matemática/Fotos/Domino - Indução.jpg",
@@ -23,17 +125,6 @@
       "width": 249,
       "height": 152,
       "color": "5"
-    },
-    {
-      "id": "bc981e150143ebbd",
-      "type": "text",
-      "text": "Utilizando a hipótese da indução, prove que o resultado é verdadeiro para n = (h+1).",
-      "styleAttributes": {},
-      "x": -550,
-      "y": -595,
-      "width": 260,
-      "height": 120,
-      "color": "#faa6ff"
     },
     {
       "id": "84fd3352f6f9e361",
@@ -87,28 +178,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "5610b060110ad580",
-      "type": "text",
-      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -258,
-      "width": 260,
-      "height": 120,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "e55af24b1a1fc4a9",
-      "type": "text",
-      "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
-      "styleAttributes": {},
-      "x": -850,
-      "y": -570,
-      "width": 260,
-      "height": 95,
-      "color": "#faa6ff"
-    },
-    {
       "id": "57f9c8193fe35df7",
       "type": "text",
       "text": "Prove que a proposição é verdadeira para o 1° número natural, ou seja, o 1.",
@@ -134,20 +203,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "6a2116f1222f17dc",
-      "type": "text",
-      "text": "#### Indução Forte",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "diamond"
-      },
-      "x": -1260,
-      "y": -552,
-      "width": 160,
-      "height": 60,
-      "color": "#564e58"
-    },
-    {
       "id": "2528ec5983a528f8",
       "type": "text",
       "text": "Podemos ter uma variação nessa etapa, no qual nós não iremos testar a propriedade do p(1), mas do p(n0), com n0 sendo o primeiro elemento da relação fornecida.",
@@ -170,15 +225,29 @@
       "color": "#faa6ff"
     },
     {
-      "id": "96e50c6a5c677688",
+      "id": "b7dee9ef5ff9b030",
       "type": "text",
-      "text": "É um método mais robusto de demonstração, mesmo que seja equivalente ao da indução fraca.",
+      "text": "### Princípios",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -1189,
+      "y": 340,
+      "width": 179,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "5610b060110ad580",
+      "type": "text",
+      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
       "styleAttributes": {},
-      "x": -1310,
-      "y": -435,
+      "x": -680,
+      "y": -258,
       "width": 260,
-      "height": 115,
-      "color": "#564e58"
+      "height": 120,
+      "color": "#faa6ff"
     },
     {
       "id": "a6eb417d563f5f34",
@@ -209,28 +278,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "bfca42a91be0b952",
-      "type": "text",
-      "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
-      "styleAttributes": {},
-      "x": -1589,
-      "y": 120,
-      "width": 300,
-      "height": 120,
-      "color": "1"
-    },
-    {
-      "id": "215dad8ddef86ad1",
-      "type": "text",
-      "text": "Pode-se aplicar a indução para provar propriedades que valem para todos os elementos de um tipo de conjunto.",
-      "styleAttributes": {},
-      "x": -1589,
-      "y": 304,
-      "width": 300,
-      "height": 123,
-      "color": "1"
-    },
-    {
       "id": "cf997810db6a7690",
       "type": "text",
       "text": "## Indução Matemática",
@@ -243,20 +290,6 @@
       "width": 300,
       "height": 50,
       "color": "6"
-    },
-    {
-      "id": "b7dee9ef5ff9b030",
-      "type": "text",
-      "text": "### Princípios",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -1189,
-      "y": 340,
-      "width": 179,
-      "height": 50,
-      "color": "1"
     },
     {
       "id": "cf14ca73abaed85b",
@@ -293,39 +326,6 @@
       "width": 260,
       "height": 100,
       "color": "5"
-    },
-    {
-      "id": "30312c4668142b3f",
-      "type": "text",
-      "text": "Uma definição mais formal utilizaria algumas propriedades para representar essa indução.",
-      "styleAttributes": {},
-      "x": -480,
-      "y": 640,
-      "width": 300,
-      "height": 100,
-      "color": "5"
-    },
-    {
-      "id": "7d657677f5c793af",
-      "type": "text",
-      "text": "Na Indução Forte, nós consideramos que a propriedade é válida para um k, tal que: n0 <= k <= h",
-      "styleAttributes": {},
-      "x": -1310,
-      "y": -720,
-      "width": 260,
-      "height": 125,
-      "color": "#564e58"
-    },
-    {
-      "id": "4b089647038231cf",
-      "type": "text",
-      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
-      "styleAttributes": {},
-      "x": -1310,
-      "y": -880,
-      "width": 260,
-      "height": 100,
-      "color": "#564e58"
     }
   ],
   "edges": [
