@@ -4,7 +4,7 @@
 Sendo R uma [[Relações|relação]] entre A e B, em que A = B. Nesta situação, a relação está <mark style="background: #BBFABBA6;">definida em A</mark>, e se identifica com um subconjunto de A² = A X A. Assim, para que R seja uma relação em A, R deve estar contido em A². Como todo subconjunto de A² é um elemento das partes de A², assim, podemos dizer que: R é uma relação sobre A se, e somente se, <mark style="background: #FFB86CA6;">R pertence ao conjunto de partes de A²</mark>. Ou seja, todos os subconjuntos de A² podem ser uma relação sobre A².
 
 ## Classificação:
-Seja R uma relação definida em A, isto é, R está contida em A², podemos classificar ela segundo as seguintes propriedades:
+Seja R uma relação definida em A, isto é, R está contida em A², podemos classificar ela conforme as seguintes propriedades:
 ### Reflexividade:
 A relação R é reflexiva, se, e somente se, para todo x em A, <mark style="background: #CACFD9A6;">(x,x) pertence a R</mark>. Mais precisamente, a <mark style="background: #FFB86CA6;">diagonal de A</mark> deve estar contida na relação para que, assim, ela possa ser considerada reflexiva.
 
@@ -16,7 +16,7 @@ A relação R é simétrica se, e somente se, para todo x e y pertencentes a A, 
 
 Colocando essas informações em termos de matriz 0-1, R é simétrica, se, e somente se, (ai,aj) em R implica (aj,ai) em R. Dessa forma, Se mij = 1, então, mji = 1 e, por consequência, se mij = 0, então mji = 0. Juntando os dois enunciados, mij = mji, para todo i e j pertencentes ao conjunto {1, 2, 3, ..., m}. Em outras palavras, R é uma relação simétrica se, e somente se, MR é uma matriz simétrica, isto é, MR = transposta[MR].
 
-A partir desse conhecimento, já podemos provar quando uma relação é não simétrica, basta mostrarmos apenas um par ordenado que não <mark style="background: #FF5582A6;">cumpra com a implicação</mark>, dessa forma, resultando em uma matriz não simétrica.
+A partir desse conhecimento, já podemos provar quando uma relação é não simétrica, basta mostrarmos apenas um par ordenado que <mark style="background: #FF5582A6;">não cumpra com a implicação</mark>, dessa forma, resultando em uma matriz não simétrica.
 ### Transitividade:
 Uma relação R é transitiva, se, e somente se, para todo x, y e z pertencentes ao conjunto A, <mark style="background: #BBFABBA6;">(x, y) em R e (y, z) em R implicam que (x, z) pertence a R</mark>, assim, caso a relação cumpra essas propriedades, ela será transitiva. 
 

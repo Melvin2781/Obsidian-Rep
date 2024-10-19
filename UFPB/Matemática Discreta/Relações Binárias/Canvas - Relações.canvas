@@ -77,17 +77,6 @@
       "color": "1"
     },
     {
-      "id": "e10f2988bbce979b",
-      "type": "text",
-      "text": "### Conceitos (x,y)",
-      "styleAttributes": {},
-      "x": -1043,
-      "y": -180,
-      "width": 171,
-      "height": 70,
-      "color": "1"
-    },
-    {
       "id": "ff7fe1b2c68965a7",
       "type": "text",
       "text": "Diagrama de Venn",
@@ -97,6 +86,72 @@
       "width": 200,
       "height": 60,
       "color": "3"
+    },
+    {
+      "id": "3c999f69bfef4a55",
+      "type": "text",
+      "text": "Relação R contido em A X B e relação S contido em B X C --> Composição = SoR.",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -757,
+      "width": 250,
+      "height": 113,
+      "color": "4"
+    },
+    {
+      "id": "0f932e49a2265951",
+      "type": "text",
+      "text": "Compõe a Imagem de R.",
+      "styleAttributes": {},
+      "x": -483,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a3564d670e1b6f86",
+      "type": "text",
+      "text": "Compõe o domínio de R.",
+      "styleAttributes": {},
+      "x": -483,
+      "y": -175,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "cdbc67b593a5751d",
+      "type": "text",
+      "text": "Subconjunto do produto cartesiano de dois conjuntos.",
+      "styleAttributes": {},
+      "x": -783,
+      "y": -302,
+      "width": 250,
+      "height": 83,
+      "color": "1"
+    },
+    {
+      "id": "3370d219a4f38f53",
+      "type": "text",
+      "text": "x é chamado de antecedente de y em R.",
+      "styleAttributes": {},
+      "x": -783,
+      "y": -175,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a2510e2bf5a4bed4",
+      "type": "text",
+      "text": "y é chamado de imagem de x em R.",
+      "styleAttributes": {},
+      "x": -783,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "1"
     },
     {
       "id": "cd2121632cf738da",
@@ -198,17 +253,6 @@
       "color": "4"
     },
     {
-      "id": "3c999f69bfef4a55",
-      "type": "text",
-      "text": "Relação R contido em A X B e relação S contido em B X C --> Composição = SoR.",
-      "styleAttributes": {},
-      "x": -1360,
-      "y": -757,
-      "width": 250,
-      "height": 113,
-      "color": "4"
-    },
-    {
       "id": "d2d0cbcbfdeb67f7",
       "type": "file",
       "file": "Vault UFPB/UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
@@ -264,31 +308,9 @@
       "color": "4"
     },
     {
-      "id": "0f932e49a2265951",
-      "type": "text",
-      "text": "Compõe a Imagem de R.",
-      "styleAttributes": {},
-      "x": -483,
-      "y": -100,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "a3564d670e1b6f86",
-      "type": "text",
-      "text": "Compõe o domínio de R.",
-      "styleAttributes": {},
-      "x": -483,
-      "y": -175,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
       "id": "8cc804101d5c0f2a",
       "type": "text",
-      "text": "## Transitiva\n(União com as sucessivas R^i. começando com i = 1.)",
+      "text": "## Transitiva\nUnião com as sucessivas R^i. começando com i = 1 e indo até i = |A|.",
       "styleAttributes": {},
       "x": 1975,
       "y": -700,
@@ -299,7 +321,7 @@
     {
       "id": "1a3a27652d898e2a",
       "type": "text",
-      "text": "## Reflexiva \n(união com a diagonal de A).",
+      "text": "## Reflexiva \nunião com a diagonal de A.",
       "styleAttributes": {},
       "x": 2280,
       "y": -500,
@@ -319,42 +341,9 @@
       "color": "5"
     },
     {
-      "id": "6c4e23c98087b774",
-      "type": "text",
-      "text": "Intimamente conectado com classes de equivalência.",
-      "styleAttributes": {},
-      "x": 2348,
-      "y": 230,
-      "width": 272,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "15e85b13fee1db70",
-      "type": "text",
-      "text": "Você pode obter uma partição a partir de classes de equivalência",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 110,
-      "width": 264,
-      "height": 90,
-      "color": "4"
-    },
-    {
-      "id": "0e536c483eb8f078",
-      "type": "text",
-      "text": "Você pode obter uma relação de equivalência a partir de uma partição.",
-      "styleAttributes": {},
-      "x": 2703,
-      "y": 300,
-      "width": 250,
-      "height": 95,
-      "color": "4"
-    },
-    {
       "id": "88d32d74918a8558",
       "type": "text",
-      "text": "Elementos da mesma parte se relacionam entre si.",
+      "text": "Elementos que pertencem à mesma parte se relacionam",
       "styleAttributes": {},
       "x": 1975,
       "y": 340,
@@ -363,53 +352,9 @@
       "color": "4"
     },
     {
-      "id": "ff098710bfb1ce5c",
-      "type": "text",
-      "text": "## Simetria",
-      "styleAttributes": {},
-      "x": 1625,
-      "y": -60,
-      "width": 160,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "8f0ca479e04a5f4a",
-      "type": "text",
-      "text": "## Partições de Relações",
-      "styleAttributes": {},
-      "x": 1936,
-      "y": 35,
-      "width": 328,
-      "height": 50,
-      "color": "#9aff75"
-    },
-    {
-      "id": "a41fbb00be2db45d",
-      "type": "text",
-      "text": "A relação R é simétrica se, e somente se, para todo x e y pertencentes a A, (x,y) em R implica (y,x) em R.",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": 60,
-      "width": 250,
-      "height": 140,
-      "color": "1"
-    },
-    {
-      "id": "d15f8e4119d5c310",
-      "type": "text",
-      "text": "## Tipos",
-      "styleAttributes": {},
-      "x": 2038,
-      "y": -460,
-      "width": 124,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "7cc95b5aed535e87",
       "type": "text",
-      "text": "As partições funcionam como um quebra cabeça, pois quando você junta todas as partes, você obtém o original.",
+      "text": "As partições funcionam como um quebra-cabeças, pois quando você junta todas as partes, você obtém a origem.",
       "styleAttributes": {},
       "x": 1956,
       "y": 140,
@@ -429,28 +374,6 @@
       "color": "4"
     },
     {
-      "id": "58bfb33d12209afd",
-      "type": "text",
-      "text": "## Reflexividade",
-      "styleAttributes": {},
-      "x": 1595,
-      "y": -260,
-      "width": 220,
-      "height": 51,
-      "color": "1"
-    },
-    {
-      "id": "1cd4a2e94368b48c",
-      "type": "text",
-      "text": "## Relação sobre um conjunto",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -180,
-      "width": 280,
-      "height": 100,
-      "color": "2"
-    },
-    {
       "id": "135855dcb2809abc",
       "type": "text",
       "text": "## Fecho de relações",
@@ -460,27 +383,6 @@
       "width": 265,
       "height": 50,
       "color": "3"
-    },
-    {
-      "id": "bf2f91f413f2a5c8",
-      "type": "text",
-      "text": "## Classificações\n",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": -155,
-      "width": 250,
-      "height": 50,
-      "color": "1"
-    },
-    {
-      "id": "9c025f1ae17046f6",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": 2228,
-      "y": 1189,
-      "width": 250,
-      "height": 60
     },
     {
       "id": "d416e453316f06e0",
@@ -516,6 +418,38 @@
       "color": "4"
     },
     {
+      "id": "7dcd5a28f569a0e3",
+      "type": "text",
+      "text": "Obter uma propriedade de relação adicionando a menor quantidade de pares ordenados possíveis.",
+      "styleAttributes": {},
+      "x": 2305,
+      "y": -342,
+      "width": 250,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "58bfb33d12209afd",
+      "type": "text",
+      "text": "## Reflexividade",
+      "styleAttributes": {},
+      "x": 1595,
+      "y": -260,
+      "width": 220,
+      "height": 51,
+      "color": "1"
+    },
+    {
+      "id": "9c025f1ae17046f6",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 2228,
+      "y": 1189,
+      "width": 250,
+      "height": 60
+    },
+    {
       "id": "f3115df066b3fb48",
       "type": "text",
       "text": "Intimamente relacionado com partições.",
@@ -525,72 +459,6 @@
       "width": 250,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "f601800dc975bb20",
-      "type": "text",
-      "text": "R é uma relação entre A e B, em que A = B. Assim, R é um subconjunto de A²",
-      "styleAttributes": {},
-      "x": 2620,
-      "y": -181,
-      "width": 250,
-      "height": 103,
-      "color": "2"
-    },
-    {
-      "id": "b2a1286ddcea3603",
-      "type": "text",
-      "text": "## Definição",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": -160,
-      "width": 179,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "f8900f59eed87f32",
-      "type": "text",
-      "text": "A relação é reflexiva se, e somente se, para todo x em A, (x,x) pertence à relação.",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": -489,
-      "width": 250,
-      "height": 116,
-      "color": "1"
-    },
-    {
-      "id": "c51b3b5bf43d9ac9",
-      "type": "text",
-      "text": "## Transitividade",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": -40,
-      "width": 230,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "5c7907ed99721780",
-      "type": "text",
-      "text": "## Antissimetria",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": -239,
-      "width": 218,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "96a4f233999d607e",
-      "type": "text",
-      "text": "## Simétrica\nUnião com a relação inversa de R.",
-      "styleAttributes": {},
-      "x": 1718,
-      "y": -481,
-      "width": 250,
-      "height": 101,
-      "color": "5"
     },
     {
       "id": "a06632765587e569",
@@ -637,35 +505,79 @@
       "color": "#1c3d73"
     },
     {
-      "id": "cdbc67b593a5751d",
+      "id": "e10f2988bbce979b",
       "type": "text",
-      "text": "Subconjunto do produto cartesiano de dois conjuntos.",
+      "text": "### Conceitos (x,y)",
       "styleAttributes": {},
-      "x": -783,
-      "y": -302,
-      "width": 250,
-      "height": 83,
+      "x": -1043,
+      "y": -180,
+      "width": 171,
+      "height": 70,
       "color": "1"
     },
     {
-      "id": "3370d219a4f38f53",
+      "id": "ff098710bfb1ce5c",
       "type": "text",
-      "text": "x é chamado de antecedente de y em R.",
+      "text": "## Simetria",
       "styleAttributes": {},
-      "x": -783,
-      "y": -175,
-      "width": 250,
+      "x": 1625,
+      "y": -60,
+      "width": 160,
       "height": 60,
       "color": "1"
     },
     {
-      "id": "a2510e2bf5a4bed4",
+      "id": "a41fbb00be2db45d",
       "type": "text",
-      "text": "y é chamado de imagem de x em R.",
+      "text": "A relação R é simétrica se, e somente se, para todo x e y pertencentes a A, (x,y) em R implica (y,x) em R.",
       "styleAttributes": {},
-      "x": -783,
-      "y": -100,
+      "x": 1580,
+      "y": 60,
       "width": 250,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "bf2f91f413f2a5c8",
+      "type": "text",
+      "text": "## Classificações\n",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": -155,
+      "width": 250,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "f8900f59eed87f32",
+      "type": "text",
+      "text": "A relação é reflexiva se, e somente se, para todo x em A, (x,x) pertence à relação.",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -489,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "c51b3b5bf43d9ac9",
+      "type": "text",
+      "text": "## Transitividade",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -40,
+      "width": 230,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "5c7907ed99721780",
+      "type": "text",
+      "text": "## Antissimetria",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -239,
+      "width": 218,
       "height": 60,
       "color": "1"
     },
@@ -692,20 +604,103 @@
       "color": "1"
     },
     {
-      "id": "7dcd5a28f569a0e3",
+      "id": "3b4420fe2207b038",
       "type": "text",
-      "text": "Obter uma propriedade de relação adicionando a menor quantidade de pares ordenados possíveis.",
+      "text": "### Ordem Total",
+      "styleAttributes": {
+        "shape": "pill",
+        "border": null
+      },
+      "x": 4500,
+      "y": -200,
+      "width": 195,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "0283457291f69799",
+      "type": "text",
+      "text": "Uma ordem total é uma caso especial de ordem parcial, em que todos os elementos da relação estão relacionados entre si.",
+      "styleAttributes": {
+        "shape": null,
+        "border": null
+      },
+      "x": 3880,
+      "y": -340,
+      "width": 260,
+      "height": 155,
+      "color": "4"
+    },
+    {
+      "id": "c698647263aa76a9",
+      "type": "text",
+      "text": "'a' se relaciona com 'x' para todo x pertencente a A",
       "styleAttributes": {},
-      "x": 2305,
-      "y": -342,
+      "x": 4240,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "e47c899465dcc536",
+      "type": "text",
+      "text": "Um conjunto A com uma ordem parcial R, (A,R), é chamado de conjunto parcialmente ordenado.",
+      "styleAttributes": {},
+      "x": 4760,
+      "y": -418,
       "width": 250,
-      "height": 140,
-      "color": "3"
+      "height": 115,
+      "color": "#de9c9c"
+    },
+    {
+      "id": "c9ed29c30718208c",
+      "type": "text",
+      "text": "A será bem-ordenada por R, se A é totalmente ordenada por R e todo subconjunto não vazio de A possui um primeiro elemento.",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": -245,
+      "width": 280,
+      "height": 150,
+      "color": "2"
+    },
+    {
+      "id": "6c4e23c98087b774",
+      "type": "text",
+      "text": "Intimamente conectado com classes de equivalência.",
+      "styleAttributes": {},
+      "x": 2348,
+      "y": 230,
+      "width": 272,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "15e85b13fee1db70",
+      "type": "text",
+      "text": "Você pode obter uma partição a partir de classes de equivalência",
+      "styleAttributes": {},
+      "x": 2700,
+      "y": 110,
+      "width": 264,
+      "height": 90,
+      "color": "4"
+    },
+    {
+      "id": "0e536c483eb8f078",
+      "type": "text",
+      "text": "Você pode obter uma relação de equivalência a partir de uma partição.",
+      "styleAttributes": {},
+      "x": 2703,
+      "y": 300,
+      "width": 250,
+      "height": 95,
+      "color": "4"
     },
     {
       "id": "855ea0d26c127246",
       "type": "text",
-      "text": "Contido no conjunto de partes de A².",
+      "text": "Pertence ao conjunto de partes de A².",
       "styleAttributes": {},
       "x": 2620,
       "y": -327,
@@ -738,34 +733,6 @@
       "color": "#de9c9c"
     },
     {
-      "id": "3b4420fe2207b038",
-      "type": "text",
-      "text": "### Ordem Total",
-      "styleAttributes": {
-        "shape": "pill",
-        "border": null
-      },
-      "x": 4500,
-      "y": -200,
-      "width": 195,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "0283457291f69799",
-      "type": "text",
-      "text": "Uma ordem total é uma caso especial de ordem parcial, em que todos os elementos da relação estão relacionados entre si.",
-      "styleAttributes": {
-        "shape": null,
-        "border": null
-      },
-      "x": 3880,
-      "y": -340,
-      "width": 260,
-      "height": 155,
-      "color": "4"
-    },
-    {
       "id": "58740f8b31446ca9",
       "type": "text",
       "text": "Conjuntos totalmente ordenado: (A, R) com a relação sendo uma ordem total.",
@@ -774,50 +741,6 @@
       "y": -120,
       "width": 260,
       "height": 120,
-      "color": "4"
-    },
-    {
-      "id": "665b9ef3b32267cb",
-      "type": "text",
-      "text": "##### Segundo elemento",
-      "styleAttributes": {},
-      "x": 4581,
-      "y": 120,
-      "width": 229,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "c698647263aa76a9",
-      "type": "text",
-      "text": "'a' se relaciona com 'x' para todo x pertencente a A",
-      "styleAttributes": {},
-      "x": 4240,
-      "y": 240,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "0bf22ad33f9eccef",
-      "type": "text",
-      "text": "##### Primeiro elemento\n",
-      "styleAttributes": {},
-      "x": 4260,
-      "y": 120,
-      "width": 220,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "08afd9a8098d62d4",
-      "type": "text",
-      "text": "'x' se relaciona com b para todo x pertence a A.",
-      "styleAttributes": {},
-      "x": 4566,
-      "y": 240,
-      "width": 260,
-      "height": 60,
       "color": "4"
     },
     {
@@ -830,7 +753,89 @@
       "x": 4468,
       "y": -60,
       "width": 260,
-      "height": 80,
+      "height": 57,
+      "color": "4"
+    },
+    {
+      "id": "1cd4a2e94368b48c",
+      "type": "text",
+      "text": "## Relação sobre um conjunto",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -164,
+      "width": 280,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "b2a1286ddcea3603",
+      "type": "text",
+      "text": "## Definição",
+      "styleAttributes": {},
+      "x": 2341,
+      "y": -154,
+      "width": 179,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "f601800dc975bb20",
+      "type": "text",
+      "text": "R é uma relação entre A e B, em que A = B. Assim, R é um subconjunto de A²",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -180,
+      "width": 250,
+      "height": 103,
+      "color": "2"
+    },
+    {
+      "id": "8f0ca479e04a5f4a",
+      "type": "text",
+      "text": "## Partições de Relações",
+      "styleAttributes": {},
+      "x": 1987,
+      "y": 35,
+      "width": 226,
+      "height": 50,
+      "color": "#9aff75"
+    },
+    {
+      "id": "96a4f233999d607e",
+      "type": "text",
+      "text": "## Simétrica\nUnião com a relação inversa de R.",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": -490,
+      "width": 250,
+      "height": 121,
+      "color": "5"
+    },
+    {
+      "id": "d15f8e4119d5c310",
+      "type": "text",
+      "text": "## Tipos",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "diamond"
+      },
+      "x": 2049,
+      "y": -460,
+      "width": 102,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "2245bf1652211b14",
+      "type": "text",
+      "text": "Única diferença entre um conjunto quociente e uma partição é a maneira como os dados dos conjuntos são estruturados.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2354,
+      "y": 344,
+      "width": 260,
+      "height": 153,
       "color": "4"
     },
     {
@@ -840,33 +845,44 @@
       "styleAttributes": {
         "shape": "predefined-process"
       },
-      "x": 4736,
-      "y": -200,
+      "x": 4728,
+      "y": -195,
       "width": 181,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "0bf22ad33f9eccef",
+      "type": "text",
+      "text": "##### Primeiro elemento\n",
+      "styleAttributes": {},
+      "x": 4266,
+      "y": 120,
+      "width": 208,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "08afd9a8098d62d4",
+      "type": "text",
+      "text": "'x' se relaciona com b para todo x pertence a A.",
+      "styleAttributes": {},
+      "x": 4649,
+      "y": 240,
+      "width": 260,
       "height": 60,
-      "color": "2"
+      "color": "4"
     },
     {
-      "id": "e47c899465dcc536",
+      "id": "665b9ef3b32267cb",
       "type": "text",
-      "text": "Um conjunto A com uma ordem parcial R, (A,R), é chamado de conjunto parcialmente ordenado.",
+      "text": "##### Último elemento",
       "styleAttributes": {},
-      "x": 4760,
-      "y": -418,
-      "width": 250,
-      "height": 115,
-      "color": "#de9c9c"
-    },
-    {
-      "id": "c9ed29c30718208c",
-      "type": "text",
-      "text": "A será bem-ordenada por R, se A é totalmente ordenada por R e todo subconjunto não vazio de A possui um primeiro elemento.",
-      "styleAttributes": {},
-      "x": 4980,
-      "y": -245,
-      "width": 280,
-      "height": 150,
-      "color": "2"
+      "x": 4683,
+      "y": 120,
+      "width": 193,
+      "height": 50,
+      "color": "4"
     }
   ],
   "edges": [
@@ -1462,6 +1478,15 @@
       "toNode": "c9ed29c30718208c",
       "toSide": "left",
       "color": "2"
+    },
+    {
+      "id": "87f45d93422cf7e0",
+      "styleAttributes": {},
+      "fromNode": "6c4e23c98087b774",
+      "fromSide": "bottom",
+      "toNode": "2245bf1652211b14",
+      "toSide": "top",
+      "color": "4"
     }
   ],
   "metadata": {}
