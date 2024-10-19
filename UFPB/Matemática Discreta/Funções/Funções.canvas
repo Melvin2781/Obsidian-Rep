@@ -32,63 +32,6 @@
       "color": "#c3a613"
     },
     {
-      "id": "44df6e13fabdb204",
-      "type": "text",
-      "text": "## Classificação\n",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -1067,
-      "y": 415,
-      "width": 225,
-      "height": 50,
-      "color": "#c3a613"
-    },
-    {
-      "id": "90cd54cbc89cc813",
-      "type": "text",
-      "text": "Tipo específico de Relação",
-      "styleAttributes": {},
-      "x": -537,
-      "y": -260,
-      "width": 250,
-      "height": 60,
-      "color": "#4682b4"
-    },
-    {
-      "id": "416841378d71cb33",
-      "type": "file",
-      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Comp2.png",
-      "styleAttributes": {},
-      "x": 1440,
-      "y": -437,
-      "width": 400,
-      "height": 253,
-      "color": "2"
-    },
-    {
-      "id": "a6d66b3e9eebb284",
-      "type": "text",
-      "text": "Função identidade",
-      "styleAttributes": {},
-      "x": 1180,
-      "y": 50,
-      "width": 196,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "89d6948453e09fca",
-      "type": "text",
-      "text": "Você sai de A --> A, passando o valor de a como objeto  sem alterar ele, ou seja, f(a) = a",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": 18,
-      "width": 250,
-      "height": 125,
-      "color": "2"
-    },
-    {
       "id": "80dcd8bf92b5b274",
       "type": "text",
       "text": "Omite pontos fixos",
@@ -97,6 +40,17 @@
       "y": 395,
       "width": 250,
       "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "cf5e2df91d40e608",
+      "type": "text",
+      "text": "F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B",
+      "styleAttributes": {},
+      "x": -1289,
+      "y": 9,
+      "width": 250,
+      "height": 146,
       "color": "1"
     },
     {
@@ -111,142 +65,6 @@
       "color": "1"
     },
     {
-      "id": "029b14f092e33f56",
-      "type": "text",
-      "text": "#### Notação em Ciclo",
-      "styleAttributes": {},
-      "x": -2182,
-      "y": 400,
-      "width": 245,
-      "height": 50,
-      "color": "1"
-    },
-    {
-      "id": "6545fef6d740f06f",
-      "type": "text",
-      "text": "Uma elemento leva pro elemento a sua direita",
-      "styleAttributes": {},
-      "x": -2352,
-      "y": 580,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "0cd64b5ef5831b3a",
-      "type": "text",
-      "text": "Uma função:A->B pode ser considerada injetora quando Im(F) = B(Contradomínio)",
-      "styleAttributes": {},
-      "x": -1345,
-      "y": 694,
-      "width": 270,
-      "height": 121,
-      "color": "#c3a613"
-    },
-    {
-      "id": "8015822967b3c8f4",
-      "type": "text",
-      "text": "## Bijetora",
-      "styleAttributes": {},
-      "x": -1039,
-      "y": 580,
-      "width": 164,
-      "height": 50,
-      "color": "#e4bf07"
-    },
-    {
-      "id": "4577cc5f96bcbcae",
-      "type": "text",
-      "text": "Condição necessária para que a função inversa seja uma função de B para A",
-      "styleAttributes": {},
-      "x": -1335,
-      "y": 846,
-      "width": 250,
-      "height": 84,
-      "color": "#c3a613"
-    },
-    {
-      "id": "2f3ec7a7b703c26a",
-      "type": "text",
-      "text": "Uma função pode ser classificada como Injetora quando, se f(x) = f(y), então x = y. Ou seja, a imagem da função possui um único antecedente",
-      "styleAttributes": {},
-      "x": -842,
-      "y": 670,
-      "width": 306,
-      "height": 145,
-      "color": "#c3a613"
-    },
-    {
-      "id": "3ac2f7aabae90374",
-      "type": "text",
-      "text": "Condição necessária para a existência de uma função inversa",
-      "styleAttributes": {},
-      "x": -814,
-      "y": 846,
-      "width": 250,
-      "height": 88,
-      "color": "#c3a613"
-    },
-    {
-      "id": "3bd746e8842b5a45",
-      "type": "text",
-      "text": "### Contagem de funções\n",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -239,
-      "y": 621,
-      "width": 297,
-      "height": 65,
-      "color": "6"
-    },
-    {
-      "id": "989a41d48d3a50bc",
-      "type": "text",
-      "text": "## Representação",
-      "styleAttributes": {},
-      "x": -938,
-      "y": -123,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "72b2e271c34ae0d8",
-      "type": "text",
-      "text": "Representação por meio do diagrama de Venn",
-      "styleAttributes": {},
-      "x": -938,
-      "y": -252,
-      "width": 250,
-      "height": 57,
-      "color": "1"
-    },
-    {
-      "id": "446ba195f17740ed",
-      "type": "text",
-      "text": "Por esse motivo, a função geradora da função inversa deve ser bijetiva",
-      "styleAttributes": {},
-      "x": -1289,
-      "y": -129,
-      "width": 250,
-      "height": 95,
-      "color": "1"
-    },
-    {
-      "id": "996c7fb96ebf909c",
-      "type": "text",
-      "text": "### Ciclos Disjuntos",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -2577,
-      "y": -130,
-      "width": 230,
-      "height": 50,
-      "color": "4"
-    },
-    {
       "id": "ec3ef2e424770335",
       "type": "text",
       "text": "Representação única.",
@@ -258,73 +76,49 @@
       "color": "4"
     },
     {
-      "id": "6ed1357c6998119e",
+      "id": "029b14f092e33f56",
       "type": "text",
-      "text": "### Permutação Especiais",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -3437,
-      "y": 132,
-      "width": 297,
+      "text": "#### Notação em Ciclo",
+      "styleAttributes": {},
+      "x": -2182,
+      "y": 400,
+      "width": 245,
       "height": 50,
-      "color": "6"
-    },
-    {
-      "id": "ef80e6e853bafe74",
-      "type": "file",
-      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutações Especiais.png",
-      "styleAttributes": {},
-      "x": -3288,
-      "y": 233,
-      "width": 319,
-      "height": 247,
-      "color": "6"
-    },
-    {
-      "id": "51abb47a6553787c",
-      "type": "text",
-      "text": "## Função de Permutação\n",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": -2739,
-      "y": 101,
-      "width": 324,
-      "height": 56,
-      "color": "2"
-    },
-    {
-      "id": "7e1ce42265fa04dd",
-      "type": "text",
-      "text": "Um mecanismo que transforma uma grandeza em outra.",
-      "styleAttributes": {},
-      "x": -564,
-      "y": -158,
-      "width": 305,
-      "height": 58,
-      "color": "#4682b4"
-    },
-    {
-      "id": "3206afd45cea4128",
-      "type": "text",
-      "text": "## Definida em dois conjuntos",
-      "styleAttributes": {},
-      "x": -814,
-      "y": 42,
-      "width": 250,
-      "height": 76,
       "color": "1"
     },
     {
-      "id": "cf5e2df91d40e608",
+      "id": "e465be8b22ca959a",
       "type": "text",
-      "text": "F é uma função de A para B caso o domínio da função seja igual a A e a imagem da função esteja contida em B",
+      "text": "Permutação cíclica ou reordenamento não muda.",
       "styleAttributes": {},
-      "x": -1289,
-      "y": 9,
-      "width": 250,
-      "height": 146,
+      "x": -2240,
+      "y": -140,
+      "width": 258,
+      "height": 71,
+      "color": "4"
+    },
+    {
+      "id": "d1a527b10e7d6c71",
+      "type": "text",
+      "text": "fog = gof",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": -255,
+      "width": 138,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3fb2adda53171368",
+      "type": "text",
+      "text": "### Formas de representação",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -2424,
+      "y": 200,
+      "width": 322,
+      "height": 60,
       "color": "1"
     },
     {
@@ -341,28 +135,15 @@
       "color": "1"
     },
     {
-      "id": "3fb2adda53171368",
+      "id": "6545fef6d740f06f",
       "type": "text",
-      "text": "### Formas de representação",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -2424,
-      "y": 200,
-      "width": 322,
+      "text": "Uma elemento leva pro elemento a sua direita",
+      "styleAttributes": {},
+      "x": -2352,
+      "y": 580,
+      "width": 250,
       "height": 60,
       "color": "1"
-    },
-    {
-      "id": "e465be8b22ca959a",
-      "type": "text",
-      "text": "Permutação cíclica ou reordenamento não muda.",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": -140,
-      "width": 258,
-      "height": 71,
-      "color": "4"
     },
     {
       "id": "ae8d22ae95b52f26",
@@ -376,17 +157,76 @@
       "color": "4"
     },
     {
-      "id": "4bdfab7a0951f1ff",
+      "id": "51abb47a6553787c",
       "type": "text",
-      "text": "Uma função de permutação em um conjunto A, é uma função bijetora de A para A, em que não há perda de elementos, apenas a mudança da posição.",
+      "text": "## Função de Permutação\n",
       "styleAttributes": {
-        "border": null
+        "shape": "parallelogram"
       },
-      "x": -3140,
-      "y": -142,
-      "width": 332,
-      "height": 140,
+      "x": -2739,
+      "y": 101,
+      "width": 324,
+      "height": 56,
       "color": "2"
+    },
+    {
+      "id": "996c7fb96ebf909c",
+      "type": "text",
+      "text": "### Ciclos Disjuntos",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -2577,
+      "y": -130,
+      "width": 230,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "0214f220aea0a0cb",
+      "type": "text",
+      "text": "Listagem dos elementos do domínio na linha de cima e listagem dos elementos da imagem em baixo dos antecedentes deles.",
+      "styleAttributes": {},
+      "x": -2678,
+      "y": 520,
+      "width": 250,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "d0402a54f5fbf494",
+      "type": "text",
+      "text": "Conjunto formados por todos as funções de permutação é chamado de SA.",
+      "styleAttributes": {},
+      "x": -3099,
+      "y": -378,
+      "width": 250,
+      "height": 123,
+      "color": "2"
+    },
+    {
+      "id": "ef80e6e853bafe74",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Permutações Especiais.png",
+      "styleAttributes": {},
+      "x": -3288,
+      "y": 233,
+      "width": 319,
+      "height": 247,
+      "color": "6"
+    },
+    {
+      "id": "6ed1357c6998119e",
+      "type": "text",
+      "text": "### Permutação Especiais",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -3437,
+      "y": 132,
+      "width": 297,
+      "height": 50,
+      "color": "6"
     },
     {
       "id": "9f24459f9b422787",
@@ -411,59 +251,26 @@
       "color": "6"
     },
     {
-      "id": "d0402a54f5fbf494",
+      "id": "4577cc5f96bcbcae",
       "type": "text",
-      "text": "Conjunto formados por todos as funções de permutação é chamado de SA.",
+      "text": "Condição necessária para que a função inversa seja uma função de B para A",
       "styleAttributes": {},
-      "x": -3099,
-      "y": -378,
+      "x": -1335,
+      "y": 846,
       "width": 250,
-      "height": 123,
-      "color": "2"
+      "height": 84,
+      "color": "#c3a613"
     },
     {
-      "id": "1ce8e6f326f06255",
+      "id": "3ac2f7aabae90374",
       "type": "text",
-      "text": "Se F e G pertencem à função, então a composta também pertencerá",
+      "text": "Condição necessária para a existência de uma função inversa",
       "styleAttributes": {},
-      "x": -3420,
-      "y": -365,
+      "x": -814,
+      "y": 846,
       "width": 250,
-      "height": 97,
-      "color": "2"
-    },
-    {
-      "id": "0b5aa1f9dfe17057",
-      "type": "text",
-      "text": "Se f pertence ao conjunto SA, então a inversa também pertence.",
-      "styleAttributes": {},
-      "x": -3099,
-      "y": -538,
-      "width": 250,
-      "height": 105,
-      "color": "2"
-    },
-    {
-      "id": "d6e95604d2a06a1c",
-      "type": "text",
-      "text": "### Desarrumação Total\n",
-      "styleAttributes": {},
-      "x": -3615,
-      "y": -72,
-      "width": 275,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "d1a527b10e7d6c71",
-      "type": "text",
-      "text": "fog = gof",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": -255,
-      "width": 138,
-      "height": 60,
-      "color": "4"
+      "height": 88,
+      "color": "#c3a613"
     },
     {
       "id": "835ebc4587628167",
@@ -474,118 +281,6 @@
       "y": 918,
       "width": 250,
       "height": 137,
-      "color": "6"
-    },
-    {
-      "id": "dbefd5693e336a0c",
-      "type": "text",
-      "text": "#### Contagem Injetora",
-      "styleAttributes": {},
-      "x": 135,
-      "y": 778,
-      "width": 246,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "9e53bd47d4160c55",
-      "type": "text",
-      "text": "Dois conjuntos são equivalentes quando existe uma bijeção entre os dois, ou seja, |A| = |B|",
-      "styleAttributes": {},
-      "x": 720,
-      "y": 331,
-      "width": 250,
-      "height": 118,
-      "color": "#9d9fd2"
-    },
-    {
-      "id": "5c5960eae37a7d6a",
-      "type": "text",
-      "text": "### Composição de Funções",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 888,
-      "y": -100,
-      "width": 250,
-      "height": 71,
-      "color": "2"
-    },
-    {
-      "id": "b82ccdae33122f51",
-      "type": "file",
-      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png",
-      "styleAttributes": {},
-      "x": 400,
-      "y": -392,
-      "width": 400,
-      "height": 162,
-      "color": "4"
-    },
-    {
-      "id": "48f9b2a948c2a313",
-      "type": "file",
-      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Composição-Função.png",
-      "styleAttributes": {},
-      "x": 893,
-      "y": -373,
-      "width": 405,
-      "height": 125,
-      "color": "2"
-    },
-    {
-      "id": "e084f345f073e364",
-      "type": "text",
-      "text": "Uma função composta é a aplicação de uma função em outra.",
-      "styleAttributes": {},
-      "x": 763,
-      "y": 80,
-      "width": 250,
-      "height": 103,
-      "color": "2"
-    },
-    {
-      "id": "0214f220aea0a0cb",
-      "type": "text",
-      "text": "Listagem dos elementos do domínio na linha de cima e listagem dos elementos da imagem em baixo dos antecedentes deles.",
-      "styleAttributes": {},
-      "x": -2678,
-      "y": 520,
-      "width": 250,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "14cb597b2255816b",
-      "type": "text",
-      "text": "Não leva nenhum elemento para si mesmo.",
-      "styleAttributes": {},
-      "x": -4020,
-      "y": -160,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "ec03c4d1d77aee8e",
-      "type": "text",
-      "text": "## Injetora",
-      "styleAttributes": {},
-      "x": -766,
-      "y": 580,
-      "width": 155,
-      "height": 50,
-      "color": "#c3a613"
-    },
-    {
-      "id": "9df19f3518ff2e0c",
-      "type": "text",
-      "text": "#### Contagem Geral",
-      "styleAttributes": {},
-      "x": -508,
-      "y": 783,
-      "width": 217,
-      "height": 55,
       "color": "6"
     },
     {
@@ -600,6 +295,96 @@
       "color": "6"
     },
     {
+      "id": "4bdfab7a0951f1ff",
+      "type": "text",
+      "text": "Uma função de permutação em um conjunto A, é uma função bijetora de A para A, em que não há perda de elementos, apenas a mudança da posição.",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -3140,
+      "y": -142,
+      "width": 332,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "1ce8e6f326f06255",
+      "type": "text",
+      "text": "Se F e G pertencem à função, então a composta também pertencerá",
+      "styleAttributes": {},
+      "x": -3420,
+      "y": -365,
+      "width": 250,
+      "height": 97,
+      "color": "2"
+    },
+    {
+      "id": "d6e95604d2a06a1c",
+      "type": "text",
+      "text": "### Desarrumação Total\n",
+      "styleAttributes": {},
+      "x": -3615,
+      "y": -72,
+      "width": 275,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "0b5aa1f9dfe17057",
+      "type": "text",
+      "text": "Se f pertence ao conjunto SA, então a inversa também pertence.",
+      "styleAttributes": {},
+      "x": -3099,
+      "y": -538,
+      "width": 250,
+      "height": 105,
+      "color": "2"
+    },
+    {
+      "id": "14cb597b2255816b",
+      "type": "text",
+      "text": "Não leva nenhum elemento para si mesmo.",
+      "styleAttributes": {},
+      "x": -4020,
+      "y": -160,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "0cd64b5ef5831b3a",
+      "type": "text",
+      "text": "Uma função:A->B pode ser considerada injetora quando Im(F) = B(Contradomínio)",
+      "styleAttributes": {},
+      "x": -1345,
+      "y": 694,
+      "width": 270,
+      "height": 121,
+      "color": "#c3a613"
+    },
+    {
+      "id": "2f3ec7a7b703c26a",
+      "type": "text",
+      "text": "Uma função pode ser classificada como Injetora quando, se f(x) = f(y), então x = y. Ou seja, a imagem da função possui um único antecedente",
+      "styleAttributes": {},
+      "x": -842,
+      "y": 670,
+      "width": 306,
+      "height": 145,
+      "color": "#c3a613"
+    },
+    {
+      "id": "9df19f3518ff2e0c",
+      "type": "text",
+      "text": "#### Contagem Geral",
+      "styleAttributes": {},
+      "x": -508,
+      "y": 783,
+      "width": 217,
+      "height": 55,
+      "color": "6"
+    },
+    {
       "id": "11098c2af6adebfa",
       "type": "text",
       "text": "#### Contagem Sobrejetora",
@@ -611,28 +396,39 @@
       "color": "6"
     },
     {
-      "id": "476ea14061ecfc45",
+      "id": "ec03c4d1d77aee8e",
       "type": "text",
-      "text": "## Funções",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": -107,
-      "y": 54,
-      "width": 160,
+      "text": "## Injetora",
+      "styleAttributes": {},
+      "x": -766,
+      "y": 580,
+      "width": 155,
       "height": 50,
-      "color": "#4682b4"
+      "color": "#c3a613"
     },
     {
-      "id": "54d42ff2c8c0278b",
+      "id": "dbefd5693e336a0c",
       "type": "text",
-      "text": "Duas funções só são iguais quando suas propriedades são iguais e seus domínios são iguais",
+      "text": "#### Contagem Injetora",
       "styleAttributes": {},
-      "x": 80,
-      "y": -370,
-      "width": 250,
-      "height": 118,
-      "color": "4"
+      "x": 135,
+      "y": 778,
+      "width": 246,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3bd746e8842b5a45",
+      "type": "text",
+      "text": "### Contagem de funções\n",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -239,
+      "y": 621,
+      "width": 297,
+      "height": 65,
+      "color": "6"
     },
     {
       "id": "082d1108dde15c97",
@@ -646,17 +442,15 @@
       "color": "6"
     },
     {
-      "id": "3443634f9f2653a2",
+      "id": "8015822967b3c8f4",
       "type": "text",
-      "text": "### Equivalência de Conjuntos",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 320,
-      "y": 360,
-      "width": 330,
-      "height": 60,
-      "color": "#9d9fd2"
+      "text": "## Bijetora",
+      "styleAttributes": {},
+      "x": -1039,
+      "y": 580,
+      "width": 164,
+      "height": 50,
+      "color": "#e4bf07"
     },
     {
       "id": "f215bcd8064366ae",
@@ -670,15 +464,72 @@
       "color": "6"
     },
     {
-      "id": "7809a756f4b6ce53",
-      "type": "text",
-      "text": "Um valor x só gera uma imagem",
+      "id": "416841378d71cb33",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Comp2.png",
       "styleAttributes": {},
-      "x": -537,
-      "y": -392,
-      "width": 250,
+      "x": 1440,
+      "y": -437,
+      "width": 400,
+      "height": 253,
+      "color": "2"
+    },
+    {
+      "id": "48f9b2a948c2a313",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/Composição-Função.png",
+      "styleAttributes": {},
+      "x": 893,
+      "y": -373,
+      "width": 405,
+      "height": 125,
+      "color": "2"
+    },
+    {
+      "id": "a6d66b3e9eebb284",
+      "type": "text",
+      "text": "Função identidade",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 50,
+      "width": 196,
       "height": 60,
-      "color": "#4682b4"
+      "color": "2"
+    },
+    {
+      "id": "5c5960eae37a7d6a",
+      "type": "text",
+      "text": "### Composição de Funções",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 888,
+      "y": -100,
+      "width": 250,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "e084f345f073e364",
+      "type": "text",
+      "text": "Uma função composta é a aplicação de uma função em outra.",
+      "styleAttributes": {},
+      "x": 763,
+      "y": 80,
+      "width": 250,
+      "height": 103,
+      "color": "2"
+    },
+    {
+      "id": "89d6948453e09fca",
+      "type": "text",
+      "text": "Você sai de A --> A, passando o valor de a como objeto  sem alterar ele, ou seja, f(a) = a",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": 18,
+      "width": 250,
+      "height": 125,
+      "color": "2"
     },
     {
       "id": "dc3349d80d7e5d89",
@@ -701,6 +552,156 @@
       "width": 250,
       "height": 127,
       "color": "6"
+    },
+    {
+      "id": "9e53bd47d4160c55",
+      "type": "text",
+      "text": "Dois conjuntos são equivalentes quando existe uma bijeção entre os dois, ou seja, |A| = |B|",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 331,
+      "width": 250,
+      "height": 118,
+      "color": "#9d9fd2"
+    },
+    {
+      "id": "3443634f9f2653a2",
+      "type": "text",
+      "text": "### Equivalência de Conjuntos",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 320,
+      "y": 360,
+      "width": 330,
+      "height": 60,
+      "color": "#9d9fd2"
+    },
+    {
+      "id": "44df6e13fabdb204",
+      "type": "text",
+      "text": "## Classificação\n",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -1067,
+      "y": 415,
+      "width": 225,
+      "height": 50,
+      "color": "#c3a613"
+    },
+    {
+      "id": "3206afd45cea4128",
+      "type": "text",
+      "text": "## Definida em dois conjuntos",
+      "styleAttributes": {},
+      "x": -814,
+      "y": 42,
+      "width": 250,
+      "height": 76,
+      "color": "1"
+    },
+    {
+      "id": "476ea14061ecfc45",
+      "type": "text",
+      "text": "## Funções",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -107,
+      "y": 54,
+      "width": 160,
+      "height": 50,
+      "color": "#4682b4"
+    },
+    {
+      "id": "446ba195f17740ed",
+      "type": "text",
+      "text": "Por esse motivo, a função geradora da função inversa deve ser bijetiva",
+      "styleAttributes": {},
+      "x": -1289,
+      "y": -129,
+      "width": 250,
+      "height": 95,
+      "color": "1"
+    },
+    {
+      "id": "90cd54cbc89cc813",
+      "type": "text",
+      "text": "Tipo específico de Relação",
+      "styleAttributes": {},
+      "x": -537,
+      "y": -260,
+      "width": 250,
+      "height": 60,
+      "color": "#4682b4"
+    },
+    {
+      "id": "72b2e271c34ae0d8",
+      "type": "text",
+      "text": "Representação por meio do diagrama de Venn",
+      "styleAttributes": {},
+      "x": -938,
+      "y": -252,
+      "width": 250,
+      "height": 57,
+      "color": "1"
+    },
+    {
+      "id": "989a41d48d3a50bc",
+      "type": "text",
+      "text": "## Representação",
+      "styleAttributes": {},
+      "x": -903,
+      "y": -129,
+      "width": 178,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "7e1ce42265fa04dd",
+      "type": "text",
+      "text": "Um mecanismo que transforma uma grandeza em outra.",
+      "styleAttributes": {},
+      "x": -564,
+      "y": -158,
+      "width": 305,
+      "height": 58,
+      "color": "#4682b4"
+    },
+    {
+      "id": "7809a756f4b6ce53",
+      "type": "text",
+      "text": "Um valor x só gera uma imagem",
+      "styleAttributes": {},
+      "x": -537,
+      "y": -392,
+      "width": 250,
+      "height": 60,
+      "color": "#4682b4"
+    },
+    {
+      "id": "b82ccdae33122f51",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png",
+      "styleAttributes": {},
+      "x": 400,
+      "y": -392,
+      "width": 400,
+      "height": 162,
+      "color": "4"
+    },
+    {
+      "id": "54d42ff2c8c0278b",
+      "type": "text",
+      "text": "Duas funções só são iguais quando suas propriedades são iguais e seus domínios são iguais",
+      "styleAttributes": {},
+      "x": 80,
+      "y": -370,
+      "width": 250,
+      "height": 118,
+      "color": "4"
     }
   ],
   "edges": [
