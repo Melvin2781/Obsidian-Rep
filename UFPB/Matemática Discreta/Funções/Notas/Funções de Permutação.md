@@ -61,7 +61,7 @@ collapse: open
 
 ### Desarrumação Total:
 
-Uma permutação de um conjunto que <mark style="background: #FF5582A6;">não leva nenhum elemento em si mesmo</mark> é chamado de desarrumação total, pois não existem pontos fixos. Os elementos de SA que não são desarrumações totais, se escritos como ciclo ou uma composição de ciclos disjuntos, <mark style="background: #FFF3A3A6;">terão pelo menos um elemento de A que não aparece</mark>.
+Uma permutação de um conjunto que <mark style="background: #FF5582A6;">não leva nenhum elemento em si mesmo</mark> é chamado de desarrumação total, pois <mark style="background: #ADCCFFA6;">não existem pontos fixos</mark>. Os elementos de SA que não são desarrumações totais, se escritos como ciclo ou uma composição de ciclos disjuntos, <mark style="background: #FFF3A3A6;">terão pelo menos um elemento de A que não aparece</mark>.
 
 ### Permutações Especiais:
 

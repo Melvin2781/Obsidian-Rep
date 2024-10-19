@@ -5,7 +5,6 @@
 Uma função é uma <mark style="background: #FFB86CA6;">"Regra"</mark> ou <mark style="background: #FFB86CA6;">'Mecanismo'</mark> que transforma uma grandeza/quantidade em outra.
 ### Definição Formal:
 Uma relação F é chamada de função desde que (a,b) em F e (a,c) em F implique que <mark style="background: #FF5582A6;">a = c</mark>. Ou seja, um antecedente só pode possuir/gerar uma única imagem, assim, evitando ambiguidade. Algo a se observar é que geralmente usamos uma notação diferente dos pares ordenados para representar funções. **(1,2) <---> F(1) = 2**.
-
 ## Classificação:
 
 ### Função Injetora:
@@ -16,6 +15,7 @@ A partir dessa classificação, nós podemos afirmar que: <mark style="backgroun
 
 Por fim, nós utilizaremos essa informação sobre as funções injetoras para conseguir transformar as relações inversas em funções, dessa forma, só resta igualar o domínio de F^-1 ao conjunto B. Para que, assim, f^-1 seja uma função de B para A.
 
+---
 ### Função Sobrejetora:
 Uma função é sobrejetora, se para todo b pertencente ao conjunto B, existe um 'a' pertencente ao conjunto A, tal que f(a) = b, ou seja, como todos os elementos do conjunto B possuem um antecedente em A, então <mark style="background: #BBFABBA6;">B = Im(F)</mark>. Assim, resolvendo o problema do domínio da função inversa. Basta provarmos que um elemento em B não possui um antecedente em A para que, assim, a função não seja sobrejetora.
 
@@ -40,7 +40,7 @@ Outro fato importante sobre as funções compostas é que elas possuem <mark sty
 
 ### Função Identidade:
 
-Seja A um conjunto, a função identidade em A é a função idA, cujo domínio é A e imagem é A e para todo 'a' pertencente ao conjunto A, idA(a) = 'a'. Ou seja, idA = {(a,a), tal que 'a' pertence a A}. Nós podemos obter uma função identidade por meio da composição de funções, onde a função mais próxima da variável em composição com sua inversa faz uma <mark style="background: #FF5582A6;">função identidade no seu domínio</mark>.
+Seja A um conjunto, a função identidade em A é a função idA, cujo domínio é A e a imagem é A e para todo 'a' pertencente ao conjunto A, idA(a) = 'a'. Ou seja, idA = {(a,a), tal que 'a' pertence a A}. Nós podemos obter uma função identidade por meio da composição de funções, onde a função mais próxima da variável em composição com sua inversa faz uma <mark style="background: #FF5582A6;">função identidade no seu domínio</mark>.
 
 Um fato interessante de se notar é que a composta de f o idA = idB o f = f;
 	
@@ -50,7 +50,8 @@ Um fato interessante de se notar é que a composta de f o idA = idB o f = f;
 
 ## Contagem de Funções:
 
-A contagem de funções é uma maneira de conseguirmos identificar de <mark style="background: #BBFABBA6;">quantas maneiras</mark> nós podemos formar funções a partir de conjuntos fornecidos, podendo ser funções gerais/injetivas/sobrejetivas/bijetivas.
+A contagem de funções é uma maneira de conseguirmos identificar de <mark style="background: #BBFABBA6;">quantas maneiras</mark>
+nós podemos formar funções a partir de conjuntos fornecidos, podendo ser funções gerais/injetivas/sobrejetivas/bijetivas.
 
 Ao todo, nós podemos fazer b^a funções --> f:A --> B com o conjunto A e B, de modo que, b = |B| e a = |A|. A notação para representar todas essas funções é o conjunto B^A que representa o conjunto de todas as funções f:A -> B.
 
