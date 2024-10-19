@@ -34,20 +34,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "cf14ca73abaed85b",
-      "type": "text",
-      "text": "### Definição\n",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -642,
-      "y": 500,
-      "width": 185,
-      "height": 60,
-      "color": "5"
-    },
-    {
       "id": "84fd3352f6f9e361",
       "type": "text",
       "text": "Utilize o princípio fraco da indução para mostrar que a proposição se aplicará para todos os 'n' pertencentes ao conjunto dos naturais.",
@@ -73,44 +59,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "1ae64d60bb22e467",
-      "type": "text",
-      "text": "##### Hipótese da Inclusão",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -820,
-      "y": -400,
-      "width": 200,
-      "height": 60,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "5610b060110ad580",
-      "type": "text",
-      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -258,
-      "width": 260,
-      "height": 120,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "cf997810db6a7690",
-      "type": "text",
-      "text": "## Indução Matemática",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "textAlign": "center"
-      },
-      "x": -700,
-      "y": 340,
-      "width": 300,
-      "height": 50,
-      "color": "6"
-    },
-    {
       "id": "205ddce3ed1b1bb5",
       "type": "text",
       "text": "##### Tese da Indução",
@@ -120,20 +68,6 @@
       "x": -509,
       "y": -400,
       "width": 178,
-      "height": 60,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "a6eb417d563f5f34",
-      "type": "text",
-      "text": "### Roteiro da Indução Fraca",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -680,
-      "y": 140,
-      "width": 260,
       "height": 60,
       "color": "#faa6ff"
     },
@@ -174,6 +108,83 @@
       "color": "#564e58"
     },
     {
+      "id": "4b089647038231cf",
+      "type": "text",
+      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
+      "styleAttributes": {},
+      "x": -1310,
+      "y": -880,
+      "width": 260,
+      "height": 100,
+      "color": "#564e58"
+    },
+    {
+      "id": "cf14ca73abaed85b",
+      "type": "text",
+      "text": "### Definição\n",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -642,
+      "y": 500,
+      "width": 185,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "1ae64d60bb22e467",
+      "type": "text",
+      "text": "##### Hipótese da Inclusão",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -820,
+      "y": -400,
+      "width": 200,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "5610b060110ad580",
+      "type": "text",
+      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -258,
+      "width": 260,
+      "height": 120,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "cf997810db6a7690",
+      "type": "text",
+      "text": "## Indução Matemática",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -700,
+      "y": 340,
+      "width": 300,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "a6eb417d563f5f34",
+      "type": "text",
+      "text": "### Roteiro da Indução Fraca",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -680,
+      "y": 140,
+      "width": 260,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
       "id": "e55af24b1a1fc4a9",
       "type": "text",
       "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
@@ -210,20 +221,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "b7dee9ef5ff9b030",
-      "type": "text",
-      "text": "### Princípios",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -1189,
-      "y": 340,
-      "width": 179,
-      "height": 50,
-      "color": "1"
-    },
-    {
       "id": "ecb6d2cf2584e2bc",
       "type": "text",
       "text": "#### Etapa Indutiva",
@@ -236,6 +233,31 @@
       "width": 180,
       "height": 60,
       "color": "#faa6ff"
+    },
+    {
+      "id": "bfca42a91be0b952",
+      "type": "text",
+      "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 120,
+      "width": 300,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "b7dee9ef5ff9b030",
+      "type": "text",
+      "text": "### Princípios",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -1189,
+      "y": 340,
+      "width": 179,
+      "height": 50,
+      "color": "1"
     },
     {
       "id": "2528ec5983a528f8",
@@ -257,17 +279,6 @@
       "y": 457,
       "width": 300,
       "height": 123,
-      "color": "1"
-    },
-    {
-      "id": "bfca42a91be0b952",
-      "type": "text",
-      "text": "A indução é utilizada para lidar com tipos de dados que pertencem a conjuntos bem-ordenados.",
-      "styleAttributes": {},
-      "x": -1589,
-      "y": 120,
-      "width": 300,
-      "height": 120,
       "color": "1"
     },
     {
@@ -315,17 +326,6 @@
       "width": 249,
       "height": 152,
       "color": "5"
-    },
-    {
-      "id": "4b089647038231cf",
-      "type": "text",
-      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
-      "styleAttributes": {},
-      "x": -1310,
-      "y": -880,
-      "width": 260,
-      "height": 100,
-      "color": "#564e58"
     }
   ],
   "edges": [

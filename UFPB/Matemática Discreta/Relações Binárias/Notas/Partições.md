@@ -15,8 +15,8 @@ collapse: open
 - A união das partes resulta no conjunto original.
 ```
 
-### Relação com classes de equivalência:
-Se R é uma relação de equivalência em um conjunto A, então as classes de equivalência de R formam uma partição de A. 
+## Relação com classes de equivalência:
+Se R é uma [[Relações de Equivalência|relação de equivalência]] em um conjunto A, então as classes de equivalência de R formam uma partição de A. 
 
 A única diferença em relação ao conjunto quociente de uma relação, é a maneira com que nós tratamos os dados de uma partição. 
 Na partição nós representamos os <mark style="background: #ADCCFFA6;">conjuntos por extenso</mark>, já no conjunto quociente, nós apenas <mark style="background: #ABF7F7A6;">representamos as classes de equivalência</mark>.
