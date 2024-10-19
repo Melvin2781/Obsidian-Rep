@@ -6,12 +6,16 @@ A relação x = y (mod n) é uma relação de equivalência no conjunto dos inte
 ### Aprofundamento Relação ≡(Mod n):
 
 A relação ≡(Mod n) é uma relação de equivalência, em que as classes de equivalência de um número dessa relação é: 
+
+```ad-info
+title: Representação
+
 [y] = {x e Z: x ≡ y(mod n)}
 [y] = {x e Z: n | (x-y)}
 [y] = {x e Z: existe um k que pertence a Z tal que x - y = nk}
 [y] = {x e Z: existe um k que pertence a Z tal que x = y + nk}
 [y] = {x e Z: existe um k que pertence a Z tal que y = x - nk}
-
 Zn  =  ( Z/ ≡ (mod n) ) --> Conjunto quociente.
+```
 
-
+![[Mod n.png]]
