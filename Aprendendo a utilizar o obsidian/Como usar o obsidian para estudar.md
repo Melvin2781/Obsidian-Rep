@@ -1,6 +1,7 @@
 ---
 Referência: https://www.youtube.com/watch?v=un4Pbihif2Y
 ---
+
 Se lembre de evitar usar espaços quando estivar usando mais de uma palavra nas propriedades para facilitar a busca.
 
 O Obsidian também permite que você consiga lincar tópicos específicos de notas.

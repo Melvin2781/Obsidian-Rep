@@ -12,26 +12,48 @@
       "label": "Indução Conceitos-Chave"
     },
     {
-      "id": "bc981e150143ebbd",
+      "id": "5610b060110ad580",
       "type": "text",
-      "text": "Utilizando a hipótese da indução, prove que o resultado é verdadeiro para n = (h+1).",
+      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
       "styleAttributes": {},
-      "x": -550,
-      "y": -595,
+      "x": -680,
+      "y": -258,
       "width": 260,
       "height": 120,
       "color": "#faa6ff"
     },
     {
-      "id": "e55af24b1a1fc4a9",
+      "id": "b5a621be751caa21",
       "type": "text",
-      "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
+      "text": "Nunca esqueça de realizar esse passo. Ele é o mais fácil de se realizar, mas ainda é importante.",
       "styleAttributes": {},
-      "x": -850,
-      "y": -570,
-      "width": 260,
-      "height": 95,
+      "x": -1449,
+      "y": -242,
+      "width": 320,
+      "height": 104,
       "color": "#faa6ff"
+    },
+    {
+      "id": "2528ec5983a528f8",
+      "type": "text",
+      "text": "Podemos ter uma variação nessa etapa, no qual nós não iremos testar a propriedade do p(1), mas do p(n0), com n0 sendo o primeiro elemento da relação fornecida.",
+      "styleAttributes": {},
+      "x": -1464,
+      "y": -84,
+      "width": 309,
+      "height": 147,
+      "color": "#904e55"
+    },
+    {
+      "id": "4b089647038231cf",
+      "type": "text",
+      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
+      "styleAttributes": {},
+      "x": -1310,
+      "y": -880,
+      "width": 260,
+      "height": 100,
+      "color": "#564e58"
     },
     {
       "id": "6a2116f1222f17dc",
@@ -70,15 +92,15 @@
       "color": "#564e58"
     },
     {
-      "id": "4b089647038231cf",
+      "id": "bc981e150143ebbd",
       "type": "text",
-      "text": "Ou seja, os elementos antes de h também cumprem a proposição.",
+      "text": "Utilizando a hipótese da indução, prove que o resultado é verdadeiro para n = (h+1).",
       "styleAttributes": {},
-      "x": -1310,
-      "y": -880,
+      "x": -550,
+      "y": -595,
       "width": 260,
-      "height": 100,
-      "color": "#564e58"
+      "height": 120,
+      "color": "#faa6ff"
     },
     {
       "id": "84fd3352f6f9e361",
@@ -92,26 +114,72 @@
       "color": "#faa6ff"
     },
     {
-      "id": "b5a621be751caa21",
+      "id": "f2c7fea20bad8ebb",
+      "type": "file",
+      "file": "Vault UFPB/UFPB/Matemática Discreta/Indução Matemática/Fotos/Domino - Indução.jpg",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -934,
+      "y": 800,
+      "width": 249,
+      "height": 152,
+      "color": "5"
+    },
+    {
+      "id": "a6eb417d563f5f34",
       "type": "text",
-      "text": "Nunca esqueça de realizar esse passo. Ele é o mais fácil de se realizar, mas ainda é importante.",
-      "styleAttributes": {},
-      "x": -1449,
-      "y": -242,
-      "width": 320,
-      "height": 104,
+      "text": "### Roteiro da Indução Fraca",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -680,
+      "y": 140,
+      "width": 260,
+      "height": 60,
       "color": "#faa6ff"
     },
     {
-      "id": "2528ec5983a528f8",
+      "id": "bf114943c7863cdf",
       "type": "text",
-      "text": "Podemos ter uma variação nessa etapa, no qual nós não iremos testar a propriedade do p(1), mas do p(n0), com n0 sendo o primeiro elemento da relação fornecida.",
-      "styleAttributes": {},
-      "x": -1464,
-      "y": -84,
-      "width": 309,
-      "height": 147,
-      "color": "#904e55"
+      "text": "#### Etapa Geral",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -260,
+      "y": -41,
+      "width": 156,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "205ddce3ed1b1bb5",
+      "type": "text",
+      "text": "##### Tese da Indução",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -509,
+      "y": -400,
+      "width": 178,
+      "height": 60,
+      "color": "#faa6ff"
+    },
+    {
+      "id": "ecb6d2cf2584e2bc",
+      "type": "text",
+      "text": "#### Etapa Indutiva",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -41,
+      "width": 180,
+      "height": 60,
+      "color": "#faa6ff"
     },
     {
       "id": "bfca42a91be0b952",
@@ -136,30 +204,43 @@
       "color": "1"
     },
     {
-      "id": "f2c7fea20bad8ebb",
-      "type": "file",
-      "file": "Vault UFPB/UFPB/Matemática Discreta/Indução Matemática/Fotos/Domino - Indução.jpg",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "x": -934,
-      "y": 800,
-      "width": 249,
-      "height": 152,
-      "color": "5"
+      "id": "7856a3bc1f34b37a",
+      "type": "text",
+      "text": "Nesta disciplina, utilizaremos apenas o conjunto dos números naturais com a relação menor ou igual que.",
+      "styleAttributes": {},
+      "x": -1589,
+      "y": 457,
+      "width": 300,
+      "height": 123,
+      "color": "1"
     },
     {
-      "id": "205ddce3ed1b1bb5",
+      "id": "b7dee9ef5ff9b030",
       "type": "text",
-      "text": "##### Tese da Indução",
+      "text": "### Princípios",
       "styleAttributes": {
+        "shape": "pill",
         "textAlign": "center"
       },
-      "x": -509,
-      "y": -400,
-      "width": 178,
-      "height": 60,
-      "color": "#faa6ff"
+      "x": -1189,
+      "y": 340,
+      "width": 179,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "cf997810db6a7690",
+      "type": "text",
+      "text": "## Indução Matemática",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -700,
+      "y": 340,
+      "width": 300,
+      "height": 50,
+      "color": "6"
     },
     {
       "id": "1ae64d60bb22e467",
@@ -200,28 +281,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "5610b060110ad580",
-      "type": "text",
-      "text": "Prove que: se a proposição é verdadeira em h, então ela também será verdadeira em (h+1)",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -258,
-      "width": 260,
-      "height": 120,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "7856a3bc1f34b37a",
-      "type": "text",
-      "text": "Nesta disciplina, utilizaremos apenas o conjunto dos números naturais com a relação menor ou igual que.",
-      "styleAttributes": {},
-      "x": -1589,
-      "y": 457,
-      "width": 300,
-      "height": 123,
-      "color": "1"
-    },
-    {
       "id": "30312c4668142b3f",
       "type": "text",
       "text": "Uma definição mais formal utilizaria algumas propriedades para representar essa indução.",
@@ -231,62 +290,6 @@
       "width": 300,
       "height": 100,
       "color": "5"
-    },
-    {
-      "id": "b7dee9ef5ff9b030",
-      "type": "text",
-      "text": "### Princípios",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -1189,
-      "y": 340,
-      "width": 179,
-      "height": 50,
-      "color": "1"
-    },
-    {
-      "id": "a6eb417d563f5f34",
-      "type": "text",
-      "text": "### Roteiro da Indução Fraca",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": -680,
-      "y": 140,
-      "width": 260,
-      "height": 60,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "ecb6d2cf2584e2bc",
-      "type": "text",
-      "text": "#### Etapa Indutiva",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": "center"
-      },
-      "x": -640,
-      "y": -41,
-      "width": 180,
-      "height": 60,
-      "color": "#faa6ff"
-    },
-    {
-      "id": "cf997810db6a7690",
-      "type": "text",
-      "text": "## Indução Matemática",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "textAlign": "center"
-      },
-      "x": -700,
-      "y": 340,
-      "width": 300,
-      "height": 50,
-      "color": "6"
     },
     {
       "id": "cf14ca73abaed85b",
@@ -314,17 +317,14 @@
       "color": "5"
     },
     {
-      "id": "bf114943c7863cdf",
+      "id": "e55af24b1a1fc4a9",
       "type": "text",
-      "text": "#### Etapa Geral",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": "center"
-      },
-      "x": -260,
-      "y": -41,
-      "width": 156,
-      "height": 60,
+      "text": "Suponha que o resultado da proposição é verdadeiro para n = h.",
+      "styleAttributes": {},
+      "x": -850,
+      "y": -570,
+      "width": 260,
+      "height": 95,
       "color": "#faa6ff"
     }
   ],
