@@ -203,17 +203,6 @@
       "color": "#faa6ff"
     },
     {
-      "id": "2528ec5983a528f8",
-      "type": "text",
-      "text": "Podemos ter uma variação nessa etapa, no qual nós não iremos testar a propriedade do p(1), mas do p(n0), com n0 sendo o primeiro elemento da relação fornecida.",
-      "styleAttributes": {},
-      "x": -1449,
-      "y": -84,
-      "width": 309,
-      "height": 147,
-      "color": "#904e55"
-    },
-    {
       "id": "b5a621be751caa21",
       "type": "text",
       "text": "Nunca esqueça de realizar esse passo. Ele é o mais fácil de se realizar, mas ainda é importante.",
@@ -326,6 +315,17 @@
       "width": 260,
       "height": 100,
       "color": "5"
+    },
+    {
+      "id": "2528ec5983a528f8",
+      "type": "text",
+      "text": "Podemos ter uma variação nessa etapa, no qual nós não iremos testar a propriedade do p(1), mas do p(n0), com n0 sendo o primeiro elemento da relação fornecida.",
+      "styleAttributes": {},
+      "x": -1464,
+      "y": -84,
+      "width": 309,
+      "height": 147,
+      "color": "#904e55"
     }
   ],
   "edges": [
