@@ -11,10 +11,14 @@
             "id": "1388225b69f37a44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "a.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "a"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for a"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from a"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "a.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of a"
             }
           }
         ]
@@ -155,59 +163,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b0b2c61447c5937",
+  "active": "1388225b69f37a44",
   "lastOpenFiles": [
-    "Vault UFPB GIT/Welcome.md",
-    "Vault UFPB GIT",
-    "Remote Blog/README.md",
-    "Remote Blog/a",
-    "Remote Blog/publish/statically-generated.md",
-    "Remote Blog/publish/works-out-of-the-box-with-markdown-files.md",
-    "Remote Blog/publish/update-publish-settings-github-actions.md",
-    "Remote Blog/publish/connect-obsidian-vault-with-github.md",
-    "Remote Blog/publish/attachments/vercel-project-id.png",
-    "Remote Blog/publish/attachments/vercel-create-token.png",
-    "Remote Blog/publish/attachments/vercel-account-id.png",
-    "Remote Blog/publish/attachments/publish-dir-yml.png",
-    "Remote Blog/publish/attachments/how-linked-blog-starter-works.png",
-    "Remote Blog/publish/attachments/github-secrets-vercel.png",
-    "Remote Blog/publish/attachments/fork-linked-blog-starter-md.png",
-    "Remote Blog/publish/attachments/fn-website-demo.gif",
-    "Remote Blog/publish/attachments/enable-actions-github.png",
-    "Remote Blog/publish/attachments/create-pat-github.png",
-    "Remote Blog/publish/reinventing-the-wheel.md",
-    "Remote Blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "Remote Blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "Remote Blog/publish/install-linked-blog-starter-locally.md",
-    "Remote Blog/publish/how-linked-blog-starter-works.md",
-    "Remote Blog/publish/home.md",
-    "Remote Blog/publish/get-project-id-account-id-and-token-vercel.md",
-    "Remote Blog/publish/deploy-a-custom-linked-blog-starter.md",
-    "Remote Blog/publish/attachments",
-    "Remote Blog/publish/accepted-markdown-metadata.md",
-    "Remote Blog/publish",
-    "R.md",
-    "Remote Blog",
-    "UFPB/Matemática Discreta/Funções/Funções.canvas",
-    "UFPB/Matemática Discreta/Funções/Funções.md",
-    "UFPB/Matemática Discreta/Funções/Função Inversa.md",
-    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
-    "Metodologia cientifica/Atividade 3 - canvas.canvas",
+    "a.md",
+    "Repositório",
     "Aprendendo a utilizar o obsidian/Como usar o obsidian para estudar.md",
-    "UFPB/Matemática Discreta/Funções/Imagens",
-    "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Classes de Equivalência.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Partições.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações.md",
-    "UFPB/Matemática Discreta/Relações Binárias/Notas/Ordem Parcial.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações em um conjunto.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações de Equivalência.md",
-    "UFPB/C++/Classes/Canvas-Classes.canvas",
-    "UFPB/Matemática Discreta/Funções",
-    "Aprendendo a utilizar o obsidian",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Partições.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Ordem Parcial.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Notas/Classes de Equivalência.md",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Venn.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Representação por Matriz.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Transitividade.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Gráfico-Cartesiano.png",
+    "UFPB/Matemática Discreta/Relações Binárias/Imagens/Composição entre relações.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/SobrejetoraContagem.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/igualdadeFuncoes.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/Função-Identidade.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/FuncaoSobrejetora.png",
+    "UFPB/Matemática Discreta/Funções/Imagens/FuncaoInversa.png",
     "UFPB/Matemática Discreta/Relações Binárias/Notas",
-    "Untitled.canvas",
     "UFPB/Matemática Discreta/Relações Binárias/Imagens",
-    "UFPB/Horário/1° Período - Cronograma.canvas"
+    "UFPB/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
+    "UFPB/Matemática Discreta/Funções/Imagens",
+    "UFPB/Matemática Discreta/Funções/Funções.md",
+    "UFPB/Matemática Discreta/Funções/Funções.canvas",
+    "UFPB/Matemática Discreta/Funções/Funções Definidas em Dois Conjuntos.md",
+    "UFPB/Matemática Discreta/Funções/Função Inversa.md",
+    "UFPB/C++/Classes/Subnota-Classes em arquivos separados.md",
+    "UFPB/C++/Classes/Imagens - Classes",
+    "UFPB/C++/Classes/Classes - notas.md",
+    "UFPB/C++/Classes/Canvas-Classes.canvas",
+    "UFPB/Horário/1° Período - Cronograma.canvas",
+    "UFPB/Matemática Discreta/Relações Binárias",
+    "UFPB/Matemática Discreta/Funções",
+    "UFPB/C++/Classes",
+    "UFPB/Horário",
+    "UFPB/Matemática Discreta",
+    "Metodologia cientifica/Rascunho Atividade 4.md",
+    "Metodologia cientifica/Rascunho - Atividade 3.md",
+    "Metodologia cientifica/Atividade 3 - canvas.canvas",
+    "2° Período/Cálculo 2/2° - Integrais/1° - Integral.md",
+    "2° Período/Cálculo 2/1°- Extra/1° - Fórmula de Taylor.md",
+    "2° Período/Horário/2° Período - Cronograma 1.canvas",
+    "1° Período/Metodologia cientifica/Atividade 5/Atividade 5.md",
+    "1° Período/Metodologia cientifica/Atividade 3/Rascunho Atividade 4.md",
+    "1° Período/Metodologia cientifica/Atividade 3/Rascunho - Atividade 3.md",
+    "1° Período/Metodologia cientifica/Atividade 3/Atividade 3 - canvas.canvas",
+    "1° Período/Matemática Discreta/Relações Binárias/Notas/Relações.md",
+    "1° Período/Matemática Discreta/Relações Binárias/Notas/Relações definidas em um conjunto.md",
+    "1° Período/Matemática Discreta/Relações Binárias/Notas/Relações de Equivalência.md",
+    "1° Período/Matemática Discreta/Relações Binárias/Notas/Partições.md",
+    "1° Período/Matemática Discreta/Relações Binárias/Notas/Ordem Parcial - Total.md",
+    "1° Período/Matemática Discreta/Relações Binárias/Canvas - Relações.canvas",
+    "1° Período/Matemática Discreta/Indução Matemática/Indução - Canvas.canvas",
+    "1° Período/Matemática Discreta/Funções/Funções.canvas"
   ]
 }
