@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a.md",
+                "file": "Rep/b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a"
+              "title": "b"
             }
           }
         ]
@@ -166,7 +166,8 @@
   "active": "1388225b69f37a44",
   "lastOpenFiles": [
     "a.md",
-    "Repositório",
+    "Rep/b.md",
+    "Rep",
     "Aprendendo a utilizar o obsidian/Como usar o obsidian para estudar.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações.md",
     "UFPB/Matemática Discreta/Relações Binárias/Notas/Relações em um conjunto.md",
